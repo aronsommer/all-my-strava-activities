@@ -1,0 +1,11 @@
+- For one file:
+
+gpsbabel -w -r -t -i gpx -f /Users/aronsommer/Downloads/gpx-files1/file.gpx -x simplify,count=100 -o gpx -F /Users/aronsommer/Downloads/gpx-files2/file.gpx
+
+- For multiple files:
+
+for f in /Users/aronsommer/Downloads/gpx-files1/*.gpx; do /Applications/GPSBabelFE.app/Contents/MacOS/gpsbabel -w -r -t -i gpx -f $f -x simplify,count=100 -o gpx -F $f; done
+
+- If command not found: gpsbabel
+
+Use /Applications/GPSBabelFE.app/Contents/MacOS/gpsbabel
