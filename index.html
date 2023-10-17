@@ -22,6 +22,20 @@
             height: 100vh;
             z-index: 1;
         }
+
+        .leaflet-popup-content {
+            color: black;
+        }
+
+        .leaflet-popup-content a:link,
+        a:visited,
+        a:active {
+            text-decoration: none;
+        }
+
+        .leaflet-popup-content a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 
@@ -116,7 +130,9 @@
                 if (item.type) { typetext = item.type; }
                 let distancetext = '';
                 if (item.type) { distancetext = Math.floor(item.distance.toFixed(2) / 1000 * 100) / 100 + " km"; }
-                let activityinfo = nametext + "<br><hr>" + typetext + " " + distancetext + "<br><hr>Click to view on Strava<br>and download GPX file";
+                let stravalink = "<a style='color: #FC5200' href='javascript:openStravaLink(" + item.id + ");'>View on Strava</a>";
+                let gpxlink = "<a style='color: black' href='javascript:saveGPX(" + item.id + ");'>Download GPX file</a>";
+                let activityinfo = nametext + "<br>" + typetext + " " + distancetext + "<br>" + stravalink + "<br>" + gpxlink;
 
                 if (item.map.summary_polyline) {
                     let coordinates = L.Polyline.fromEncoded(item.map.summary_polyline).getLatLngs();
@@ -133,10 +149,10 @@
                             //opacity: 1,
                             weight: 5
                         });
-                        let popup = L.popup()
-                            .setLatLng(e.latlng)
-                            .setContent(activityinfo)
-                            .openOn(map);
+                        // let popup = L.popup()
+                        //     .setLatLng(e.latlng)
+                        //     .setContent(activityinfo)
+                        //     .openOn(map);
                     });
 
                     // Close popup on mouseout
@@ -148,18 +164,31 @@
                             //opacity: 1,
                             weight: 3
                         });
-                        map.closePopup();
+                        // map.closePopup();
                     });
 
                     // Open strava activity on click
+                    // polyLine.on('click', function (e) {
+                    //     this.bringToFront();
+                    //     let url = "https://www.strava.com/activities/" + item.id
+                    //     window.open(url);
+                    //     saveGPX(item.id);
+                    // });
+
+                    // Open popup on click
                     polyLine.on('click', function (e) {
-                        this.bringToFront();
-                        let url = "https://www.strava.com/activities/" + item.id
-                        window.open(url);
-                        saveGPX(item.id);
+                        let popup = L.popup()
+                            .setLatLng(e.latlng)
+                            .setContent(activityinfo)
+                            .openOn(map);
                     });
                 }
             });
+        }
+
+        function openStravaLink(_id) {
+            let url = "https://www.strava.com/activities/" + _id;
+            window.open(url);
         }
 
         function saveGPX(_id) {
