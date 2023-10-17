@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All my Strava activities on one map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="Polyline.encoded.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            width: 100%;
+            height: 100vh;
+            z-index: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <script>
+        // The DOMContentLoaded event fires when the HTML document has been completely parsed
+        document.addEventListener("DOMContentLoaded", (event) => {
+            console.log("DOM fully loaded and parsed");
+            SettingUpTheMap();
+        });
+
+        let map;
+        let layerControl;
+
+        function SettingUpTheMap() {
+            // Base maps
+            let osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+                attribution: '© OpenStreetMap'
+            });
+
+            let pixelkarteFarbe = L.tileLayer.wms('https://wms.geo.admin.ch/', {
+                layers: 'ch.swisstopo.pixelkarte-farbe',
+                format: 'image/jpeg',
+                detectRetina: true,
+                attribution: '© swisstopo'
+            });
+
+            let pixelkarteGrau = L.tileLayer.wms('https://wms.geo.admin.ch/', {
+                layers: 'ch.swisstopo.pixelkarte-grau',
+                format: 'image/jpeg',
+                detectRetina: true,
+                attribution: '© swisstopo'
+            });
+
+            let swissImage = L.tileLayer.wms('https://wms.geo.admin.ch/', {
+                layers: 'ch.swisstopo.swissimage',
+                format: 'image/jpeg',
+                detectRetina: true,
+                attribution: '© swisstopo'
+            });
+
+            // Overlay maps
+            let wanderwege = L.tileLayer.wms('https://wms.geo.admin.ch/', {
+                layers: 'ch.swisstopo.swisstlm3d-wanderwege',
+                format: 'image/png',
+                transparent: true
+            });
+
+            map = L.map('map', {
+                center: [46.8182, 8.2275],
+                zoom: 8,
+                layers: [osm],
+                zoomControl: false
+            });
+
+            let baseMaps = {
+                "OpenStreetMap": osm,
+                "Swisstopo color map": pixelkarteFarbe,
+                "Swisstopo grey map": pixelkarteGrau,
+                "Swisstopo aerial imagery": swissImage
+            };
+
+            let overlayMaps = {
+                "Swiss hiking trails": wanderwege
+            };
+
+            layerControl = L.control.layers(baseMaps, overlayMaps);
+            layerControl.addTo(map);
+            L.control.zoom({ position: 'topleft' }).addTo(map);
+
+            readJSON();
+        }
+
+        function readJSON() {
+            fetch("./allActivities.json")
+                .then((res) => {
+                    return res.json();
+                })
+                // .then((data) => console.log(data));
+                .then((data) => AddPolylinesToMap(data));
+        }
+
+        function AddPolylinesToMap(_json) {
+            _json.forEach(function (item, index) {
+                // Activityinfo
+                let nametext = '';
+                if (item.name) { nametext = item.name; }
+                let typetext = '';
+                if (item.type) { typetext = item.type; }
+                let distancetext = '';
+                if (item.type) { distancetext = Math.floor(item.distance.toFixed(2) / 1000 * 100) / 100 + " km"; }
+                let activityinfo = nametext + "<br><hr>" + typetext + " " + distancetext + "<br><hr>Click to view on Strava<br>and download GPX file";
+
+                if (item.map.summary_polyline) {
+                    let coordinates = L.Polyline.fromEncoded(item.map.summary_polyline).getLatLngs();
+                    let polyLine = L.polyline(coordinates, { color: "#FF00FF", opacity: 1, weight: 3, interactive: true }).addTo(map);
+                    // Set map view to center of loaded polyLine
+                    map.panTo(polyLine.getCenter());
+
+                    // Highlight line on mouseover and show popup
+                    polyLine.on('mouseover', function (e) {
+                        this.bringToFront();
+                        let layer = e.target;
+                        layer.setStyle({
+                            color: 'blue',
+                            //opacity: 1,
+                            weight: 5
+                        });
+                        let popup = L.popup()
+                            .setLatLng(e.latlng)
+                            .setContent(activityinfo)
+                            .openOn(map);
+                    });
+
+                    // Close popup on mouseout
+                    polyLine.on('mouseout', function (e) {
+                        this.bringToBack();
+                        let layer = e.target;
+                        layer.setStyle({
+                            color: '#FF00FF',
+                            //opacity: 1,
+                            weight: 3
+                        });
+                        map.closePopup();
+                    });
+
+                    // Open strava activity on click
+                    polyLine.on('click', function (e) {
+                        this.bringToFront();
+                        let url = "https://www.strava.com/activities/" + item.id
+                        window.open(url);
+                        saveGPX(item.id);
+                    });
+                }
+            });
+        }
+
+        function saveGPX(_id) {
+            let a = document.createElement('a');
+            a.download = _id + '.gpx';
+            a.href = "activities/" + _id + ".gpx";
+            a.id = _id;
+            document.body.appendChild(a);
+            a.click();
+            // document.querySelector('#' + a.id).remove();
+            document.getElementById(a.id).remove();
+        }
+    </script>
+</body>
+
+</html>
