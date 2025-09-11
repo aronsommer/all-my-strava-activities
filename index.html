@@ -10,7 +10,6 @@
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
       crossorigin=""
     />
-    <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script
       src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
@@ -52,177 +51,238 @@
     <div id="map"></div>
 
     <script>
-      // The DOMContentLoaded event fires when the HTML document has been completely parsed
+      // The DOMContentLoaded event ensures the script runs only after the entire HTML page has been loaded.
       document.addEventListener("DOMContentLoaded", (event) => {
         console.log("DOM fully loaded and parsed");
-        SettingUpTheMap();
+        setupMap();
       });
 
+      // Use `const` for variables that are assigned once and never changed.
       let map;
       let layerControl;
+      const polylineGroup = new L.featureGroup();
 
-      function SettingUpTheMap() {
-        // Base maps
-        let osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      /**
+       * Initializes the Leaflet map, all tile layers, and user controls.
+       */
+      function setupMap() {
+        // --- Base Map Layer Definitions ---
+        const osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
           maxZoom: 19,
           attribution: "© OpenStreetMap",
         });
 
-        let pixelkarteFarbe = L.tileLayer.wms("https://wms.geo.admin.ch/", {
+        const esriWorldImagery = L.tileLayer(
+          "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+          {
+            maxZoom: 19,
+            attribution: "© Esri",
+          }
+        );
+
+        // Grouping Swisstopo layers for clarity
+        const swisstopoWMS = "https://wms.geo.admin.ch/";
+        const swisstopoAttribution = "© swisstopo";
+
+        const pixelkarteFarbe = L.tileLayer.wms(swisstopoWMS, {
           layers: "ch.swisstopo.pixelkarte-farbe",
           format: "image/jpeg",
           detectRetina: true,
-          attribution: "© swisstopo",
+          attribution: swisstopoAttribution,
         });
 
-        let pixelkarteGrau = L.tileLayer.wms("https://wms.geo.admin.ch/", {
+        const pixelkarteGrau = L.tileLayer.wms(swisstopoWMS, {
           layers: "ch.swisstopo.pixelkarte-grau",
           format: "image/jpeg",
           detectRetina: true,
-          attribution: "© swisstopo",
+          attribution: swisstopoAttribution,
         });
 
-        let swissImage = L.tileLayer.wms("https://wms.geo.admin.ch/", {
+        const swissImage = L.tileLayer.wms(swisstopoWMS, {
           layers: "ch.swisstopo.swissimage",
           format: "image/jpeg",
           detectRetina: true,
-          attribution: "© swisstopo",
+          attribution: swisstopoAttribution,
         });
 
-        // Overlay maps
-        let wanderwege = L.tileLayer.wms("https://wms.geo.admin.ch/", {
+        // --- Overlay Map Layer Definition ---
+        const wanderwege = L.tileLayer.wms(swisstopoWMS, {
           layers: "ch.swisstopo.swisstlm3d-wanderwege",
           format: "image/png",
           transparent: true,
         });
 
+        // --- Map Initialization ---
         map = L.map("map", {
-          center: [46.8182, 8.2275],
+          center: [46.8182, 8.2275], // Centered on Switzerland
           zoom: 8,
-          layers: [osm],
-          zoomControl: false,
+          layers: [osm], // Set the initial base layer
+          zoomControl: false, // Disable default zoom control to reposition it
         });
 
-        let baseMaps = {
+        // --- Layer Groups for the Control Box ---
+        const baseMaps = {
           OpenStreetMap: osm,
-          "Swisstopo color map": pixelkarteFarbe,
-          "Swisstopo grey map": pixelkarteGrau,
-          "Swisstopo aerial imagery": swissImage,
+          "Esri World Imagery": esriWorldImagery,
+          "Swisstopo Color": pixelkarteFarbe,
+          "Swisstopo Grey": pixelkarteGrau,
+          "Swisstopo Aerial": swissImage,
         };
 
-        let overlayMaps = {
-          "Swiss hiking trails": wanderwege,
+        const overlayMaps = {
+          "Swiss Hiking Trails": wanderwege,
         };
 
-        layerControl = L.control.layers(baseMaps, overlayMaps);
-        layerControl.addTo(map);
+        // --- Add Controls to the Map ---
+        layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
         L.control.zoom({ position: "topleft" }).addTo(map);
         L.control.locate().addTo(map);
 
-        readJSON();
+        // Fetch and draw the activity data on the map
+        loadAndDrawActivities();
       }
 
-      function readJSON() {
-        fetch("./allActivities.json")
-          .then((res) => {
-            return res.json();
-          })
-          // .then((data) => console.log(data));
-          .then((data) => AddPolylinesToMap(data));
-      }
-
-      let polyLineGroup = new L.featureGroup();
-
-      function AddPolylinesToMap(_json) {
-        _json.forEach(function (item, index) {
-          // Activity info
-          let distancetext = Math.floor((item.distance.toFixed(2) / 1000) * 100) / 100 + " km";
-          let stravalink =
-            "<a style='color: #FC5200' href='javascript:openStravaLink(" +
-            item.id +
-            ");'>" +
-            item.name +
-            "</a>";
-          let gpxlink =
-            "<a style='color: black' href='javascript:saveGPX(" +
-            item.id +
-            ");'>Download GPX file</a>";
-          let activityinfo =
-            stravalink + "<br>" + item.type + " " + distancetext + "<br>" + gpxlink;
-
-          if (item.map.summary_polyline) {
-            let coordinates = L.Polyline.fromEncoded(item.map.summary_polyline).getLatLngs();
-            let polyLine = L.polyline(coordinates, {
-              color: "#FF00FF",
-              opacity: 1,
-              weight: 3,
-              interactive: true,
-            }).addTo(map);
-
-            // Add polyLine to polyLineGroup
-            polyLine.addTo(polyLineGroup);
-
-            // Set map view to center of loaded polyLine
-            map.panTo(polyLine.getCenter());
-
-            // Highlight line on mouseover
-            polyLine.on("mouseover", function (e) {
-              this.bringToFront();
-              let layer = e.target;
-              layer.setStyle({
-                color: "blue",
-                //opacity: 1,
-                weight: 5,
-              });
-              // let popup = L.popup()
-              //     .setLatLng(e.latlng)
-              //     .setContent(activityinfo)
-              //     .openOn(map);
-            });
-
-            // Unhighlight line on mouseout
-            polyLine.on("mouseout", function (e) {
-              this.bringToBack();
-              let layer = e.target;
-              layer.setStyle({
-                color: "#FF00FF",
-                //opacity: 1,
-                weight: 3,
-              });
-              // map.closePopup();
-            });
-
-            // Open popup on click
-            polyLine.on("click", function (e) {
-              let popup = L.popup().setLatLng(e.latlng).setContent(activityinfo).openOn(map);
-            });
-
-            // Open strava activity on click
-            // polyLine.on('click', function (e) {
-            //     this.bringToFront();
-            //     let url = "https://www.strava.com/activities/" + item.id
-            //     window.open(url);
-            // });
+      /**
+       * Fetches activity data using the modern async/await syntax and handles potential errors.
+       */
+      async function loadAndDrawActivities() {
+        try {
+          const response = await fetch("./allActivities.json");
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
           }
+          const activities = await response.json();
+          addPolylinesToMap(activities);
+        } catch (error) {
+          console.error("Could not fetch or process activity data:", error);
+        }
+      }
+
+      /**
+       * Processes an array of activities and adds them as polylines to a single layer group.
+       * @param {Array} activities - The array of activity objects from the JSON file.
+       */
+      function addPolylinesToMap(activities) {
+        // Define line weights here for easy adjustments
+        const normalWeight = 8;
+        const highlightWeight = 10;
+
+        // This variable will hold a reference to the currently selected polyline.
+        let selectedPolyline = null;
+
+        activities.forEach((item) => {
+          // Skip any activity that doesn't have a polyline
+          if (!item.map.summary_polyline) {
+            return;
+          }
+
+          // Convert distance to km and format it.
+          const distanceInKm = (item.distance / 1000).toFixed(2);
+
+          // Use template literals (`) for cleaner, multi-line HTML strings.
+          const activityInfo = `
+            <a style="color: #FC5200" href="javascript:openStravaLink(${item.id});">${item.name}</a><br>
+            ${item.type} - ${distanceInKm} km<br>
+            <a style="color: black" href="javascript:saveGPX(${item.id});">Download GPX file</a>
+          `;
+
+          // Decode the polyline and create a Leaflet layer
+          const coordinates = L.Polyline.fromEncoded(item.map.summary_polyline).getLatLngs();
+          const polyline = L.polyline(coordinates, {
+            color: "#FF00FF",
+            weight: normalWeight, // Use variable
+          });
+
+          // Bind the popup to the polyline layer with a max-width option.
+          polyline.bindPopup(activityInfo, {
+            maxWidth: 150,
+          });
+
+          // Handle mouse hovering
+          polyline.on("mouseover", function () {
+            this.bringToFront();
+            // Only apply the hover style if this line is NOT the selected one.
+            if (this !== selectedPolyline) {
+              this.setStyle({
+                color: "blue",
+                weight: highlightWeight, // Use variable
+              });
+            }
+          });
+
+          // Handle mouse moving out
+          polyline.on("mouseout", function () {
+            // Only revert the style if this line is NOT the selected one.
+            if (this !== selectedPolyline) {
+              this.setStyle({
+                color: "#FF00FF",
+                weight: normalWeight, // Use variable
+              });
+            }
+          });
+
+          // Handle click events to select a line
+          polyline.on("click", function () {
+            // If a different line was already selected, reset its style.
+            if (selectedPolyline && selectedPolyline !== this) {
+              selectedPolyline.setStyle({
+                color: "#FF00FF",
+                weight: normalWeight, // Use variable
+              });
+            }
+            // Set the current line as the new selected line and apply the style.
+            selectedPolyline = this;
+            this.setStyle({
+              color: "blue",
+              weight: highlightWeight, // Use variable
+            });
+          });
+
+          // Handle the closing of a popup
+          polyline.on("popupclose", function () {
+            // When the popup is closed, reset this line's style.
+            this.setStyle({
+              color: "#FF00FF",
+              weight: normalWeight, // Use variable
+            });
+            // Clear the selected state.
+            selectedPolyline = null;
+          });
+
+          // Add the polyline to our group instead of directly to the map
+          polylineGroup.addLayer(polyline);
         });
-        // When all polyLines are loaded fit view to polyLineGroup
-        map.fitBounds(polyLineGroup.getBounds());
+
+        // Add the entire group of polylines to the map in one single operation
+        map.addLayer(polylineGroup);
+
+        // Once all polylines are added, zoom the map to fit all of them perfectly.
+        if (polylineGroup.getLayers().length > 0) {
+          map.fitBounds(polylineGroup.getBounds());
+        }
       }
 
-      function openStravaLink(_id) {
-        let url = "https://www.strava.com/activities/" + _id;
-        window.open(url);
+      /**
+       * Opens a new browser tab to the corresponding Strava activity page.
+       * @param {number} id - The Strava activity ID.
+       */
+      function openStravaLink(id) {
+        const url = `https://www.strava.com/activities/${id}`;
+        window.open(url, "_blank"); // '_blank' ensures it opens in a new tab
       }
 
-      function saveGPX(_id) {
-        let a = document.createElement("a");
-        a.download = _id + ".gpx";
-        a.href = "activities/" + _id + ".gpx";
-        a.id = _id;
-        document.body.appendChild(a);
-        a.click();
-        // document.querySelector('#' + a.id).remove();
-        document.getElementById(a.id).remove();
+      /**
+       * Triggers a browser download for the corresponding GPX file.
+       * @param {number} id - The activity ID, used to build the GPX file path.
+       */
+      function saveGPX(id) {
+        // Create a temporary anchor element to trigger the download
+        const a = document.createElement("a");
+        a.href = `activities/${id}.gpx`;
+        a.download = `${id}.gpx`;
+        document.body.appendChild(a); // Add it to the DOM
+        a.click(); // Programmatically click it
+        document.body.removeChild(a); // Clean up and remove it
       }
     </script>
   </body>
