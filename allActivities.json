@@ -5,6 +5,689 @@
       "id": 23071964,
       "resource_state": 1
     },
+    "name": "Schwarzwald hässlich ohne picknick spot",
+    "distance": 10516.4,
+    "moving_time": 10728,
+    "elapsed_time": 14686,
+    "total_elevation_gain": 549.4,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 15570332899,
+    "start_date": "2025-08-24T09:50:56Z",
+    "start_date_local": "2025-08-24T11:50:56Z",
+    "timezone": "(GMT+01:00) Europe/Berlin",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15570332899",
+      "summary_polyline": "}btbHgbym@h@@rBq@j@mBDBdA_Bn@[t@{@La@?HAS\\k@Ba@Ro@IiAD{Aa@@u@v@q@VoACJgA\\SRc@MYSNs@DFFWBWb@[CgA]q@w@JC@OKAGQDCm@}@Es@S]oAg@Q]m@FcAo@i@SyBM]TGK@WBJKDIo@[}@EeAe@cCY\\UbAk@p@KzBSRAN_AGu@PcAAQQQHwCsBs@IsAy@KY[UOi@]UIS?c@VyAA_BYeBNIAW_@w@sBJc@f@[Ha@Q[F]UG[O@hABr@s@CFKM{@}BBwBHoALsAh@wBLiBGk@@oASk@[cCTgA?c@LSZ@hDgApADn@[nAQXOF_@Ze@@UJDEe@H_@G]FyCLk@\\k@Hq@bAiBjAu@`AgATs@KaA@mBOIQi@Bg@Qm@Lq@QWR\\VT~@j@`@RLMXH|@fAFl@j@tADd@h@zAHr@IrAg@|AHf@ITG@@GDN?Y`@P^KHG`@{ABu@NSTO?_@XoAb@mD[oCPa@?mAJEPVJh@AR^d@b@~BEI@g@MY?oALo@f@{@|Ay@j@k@dAa@h@e@XE^o@~Aw@l@k@vBIlBXn@UfCYxCP`AjAL|BRb@@d@Nl@rArBjAXMHJRi@OKn@a@ZFBGNCv@k@b@CJHHSrAdCs@t@Lr@Cl@`@~Bz@Zb@p@n@r@\\f@n@`A`BFp@XfAt@rAdAt@Xd@jATGx@UZ_@m@a@Mm@@w@Z_AMUUc@}@C{BeAsA}Au@wBU_AZ{AjARFSHMZ{@nAs@fC[l@ARHDSHQ\\[~BKHq@Oe@WkAKc@NcAWOO@W[p@MEYs@_@QEkASmAKt@Os@QiCSa@SC[^I`@q@`@g@|@QHW`B?OYh@IVAb@a@j@D@Cb@]r@GfAWz@y@^q@t@cB~@i@|AKt@LvARb@@JG?DG@r@Mj@{@tAUtAPzAr@vCJrCb@xBHzCIKLjCEp@RCM?ZZNbATb@d@RJf@\\`@Hf@HfANMJRGLAO@LDEGFDK?MbALFHBf@VGWp@_@^CZdAU^]f@K_A~Aq@`AzCAr@m@FSLAK?JFECP]Lf@A~@Q`BQn@_@v@FRkAzA_@Zk@\\DSu@jAi@dBq@z@WNy@@",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.78656,
+      7.67005
+    ],
+    "end_latlng": [
+      47.786404,
+      7.669977
+    ],
+    "average_speed": 0.98,
+    "max_speed": 3.05,
+    "average_cadence": 48.3,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 987.8,
+    "elev_low": 499.3,
+    "upload_id": 16629717033,
+    "upload_id_str": "16629717033",
+    "external_id": "stripped_93671ce3-bb03-4b87-afee-f01dbff88ab8-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "St Ursanne-Outremont-St Ursanne",
+    "distance": 6239,
+    "moving_time": 6179,
+    "elapsed_time": 14531,
+    "total_elevation_gain": 280.4,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 15411913513,
+    "start_date": "2025-08-10T11:12:13Z",
+    "start_date_local": "2025-08-10T13:12:13Z",
+    "timezone": "(GMT+01:00) Europe/Zurich",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15411913513",
+      "summary_polyline": "epb`H_cuj@F`@EZBRFZHBMCDbAHz@Ah@Bf@MbABn@GBIW?b@H^[J@FBCEDD??DDAMCBEDDKQAQOEHc@II@s@GSAYBGIw@Bm@_@a@MVBr@CTMNUG[m@BSISBKQ]CWDEI?DAHP?`@LAFa@CGD@DUBoBD[HKCs@BCEWEAMBCj@GT?\\Mt@@t@KRECAFCG@EUcAOi@WIo@o@e@w@E]KYw@q@gA_BYWISGCBBEJUDi@?MMCOOIU][E_@WcAUEG@KC?BB@IBHGBQIEc@Si@WY}@Gi@SuAyBq@{@M]OeAQ[WiA[u@M}@WWIUi@c@yAaCY]WaAWo@@IGK?GEQUWQg@e@YEMeAeAB?c@eAs@WEGQDc@m@KECBHFSGSUa@[IAMWAEDCi@c@@DGCAOEADNFGK@HND?@I?Fu@cASCMe@OAQo@]u@KEBJMUALO?KJAnABBBRD?BVNd@?XQGLh@Bb@DLH?LxBNf@EXOVQ?MQKoASOIBMPCd@Hj@Vv@LvARx@@Vf@rAj@fCh@xAJj@HnACl@EZ@j@HV@XZU?LI?HEAPGBBEHFJ^W\\C\\HV?jAUr@\\FFL@REX?r@LTCADXRb@t@Bl@WVIb@LHA@GRLNQb@RTh@A\\DTPFRS^GBUAk@l@KRJDAG@PPD`@EVRd@E[B[Lc@?WEO@DASD_@Eu@HK\\CVLTh@RpA?KN`@Z\\Zz@D?Nb@fAbAVf@HDZ`@Tp@JBX`@LDn@A\\LVRf@n@b@R`@d@ZETJ~ALPLv@Hb@Tv@BC@@JCKEF?FBGCDCC@M@DG?HLCIBC@L?EA@B?AECB?KBICF@GEBAKALDD@G@@ALEBBEBDC?DBAECBD?IGH@I?@HAEG@DCFFEICBHGI?@@E@H?AF@IG?DBDCI?DEADB?EADDGECHAIC@L??H@QDLAEF?K@DKG@ANDOHDAD@CGA@EBD?Ht@DADBCDPVT|@Xj@t@h@\\b@t@NjAHRPP^Jf@d@^b@Xn@j@~@JGGC?RFh@DRTZDv@X\\D~@Z~@PPXl@x@f@^Fd@`@r@BGDCAFK^YPBdAg@`AEh@Db@Kv@?HGEELALOBOOUG]DOHECAEH\\GHODY@YI]@UESGG]P[AOIHA@FAEDAM?cBu@g@m@^XBG",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.367419,
+      7.161329
+    ],
+    "end_latlng": [
+      47.36651,
+      7.157407
+    ],
+    "average_speed": 1.01,
+    "max_speed": 3.8,
+    "average_cadence": 48.8,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 758.4,
+    "elev_low": 441.9,
+    "upload_id": 16458803361,
+    "upload_id_str": "16458803361",
+    "external_id": "stripped_6c61a4bc-2dbf-41ca-b205-73230b946084-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Freiburg-Kandern-Weil am Rhein",
+    "distance": 62007.8,
+    "moving_time": 13776,
+    "elapsed_time": 18232,
+    "total_elevation_gain": 301.4,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": 10,
+    "id": 15179296927,
+    "start_date": "2025-07-20T12:17:01Z",
+    "start_date_local": "2025-07-20T14:17:01Z",
+    "timezone": "(GMT+01:00) Europe/Berlin",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15179296927",
+      "summary_polyline": "iz|cHso{n@QJXG?uC[eAf@@KoA?iATo@Dq@LWdBZp@I~AFz@`@DTWVs@rBHs@DAt@Rx@p@S`KFvArD@b@FXZtAvBVf@?Jv@x@d@dAC\\~BhDb@lAv@zAbMf[jFp]o@p\\BzAhDve@`AfGNpC^rDhBju@j@`@dEld@DpCpChf@f@nChJ~^`@bAAb@vLrMv@p@|SfWfAbBbRhQtAfA`RtUz@hB~N~]z@_ACy@tNbQ`A~BrOv[j@`A|AhDpE~d@`@bKIh@Ph@LlALhCb@pEXFnJxKhOzXv@~@zDfDhWbUrAtBbAnAbJvQzMde@R`@v@zAzRdUkDpTK~DhG~^p@lBxIpQbDnBpBdCpIzFxBl@nGn@`PGrAK|NZr@r@XXdDpGDZ[j@N[AMJq@BRNREIr@MbNpO~MxQ~@`AzAjCx@fDt@rAvAlAjB@`@\\nDlFjBxDZdAd@~@dDjFLd@Bh@pI|GzNrPnTt]jApA~OlTdNxSvOnShIfJhSlOnGtD~PxIJd@xR~O`RpRfPpUzSjYFXfU`W`W`RvUnRfN`OfR|OpAv@lPzMbAhBtLfXfTd\\nA|ApRtH~AV~Y|Lt[~@rNjB`VhF`St@jAPnRfL`VtVdAt@pTnL~@y@Pm@lEuKn@FIb@MhB@zANz@hAhDTrATbCNd@xAhAv@TzE~@h@OXBFJB^nDxBxC~AfR~OhUt[|@zBtRzYjB~@~WdIZvA`B|@bC~@|l@vWr@E`[fOv\\hObVtQ~AxAnV`H`BZfYlD~@FTOnWtDhPhDlAHnSmClBaD@NPqAlCiMnCyFh@m@lD}I@]tF{UbBkAvUaTvAuBnQu[j@cCrKk]\\}BnH{S[q@v@ePrAe@~UgOdL{LdAGvCaAr@c@`LwKdGiOpJwOfDcLbAoE`_@qZbBeDh@gBtN_^S}BEEiBoSBoAwBiSRmAvEuTfE_VRyENmIpDuY`SnE~@Wb@D`YzKlAz@`MzQvZhDt_@xPbChBnGzM|DlZdAdCtY~LzBMt\\iJ`CaAt]cFbAe@RS|ReJtATdAl@lJRpDqb@jAiA`TpArBt@j]yAbPvMjCNdTfFtBD|WzMdIhCrQdMJpAp@n^dA`@`@D~WjMdBrC~FlQ|BjIhRzPhAk@j@Mx@GTJDfA`Ml^hArBpQvY~@pBtSbCxBzn@n@vC~EvE^s@|R}QjNiKjKlNbEbg@`MwDfBeJdUdIxA`HdExLzNn@`W{QnOsDhCv@",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.993963,
+      7.848862
+    ],
+    "end_latlng": [
+      47.593098,
+      7.599798
+    ],
+    "average_speed": 4.501,
+    "max_speed": 18.291,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 366.3,
+    "elev_low": 219.6,
+    "upload_id": 16209634248,
+    "upload_id_str": "16209634248",
+    "external_id": "stripped_7adad4bc-98de-4590-b429-88d46f1b4cce-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Sickert-Abri du Sickertbach-Col du Sattelboden-Sickert",
+    "distance": 11317.7,
+    "moving_time": 7103,
+    "elapsed_time": 19444,
+    "total_elevation_gain": 620.5,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 15101487769,
+    "start_date": "2025-07-13T09:19:19Z",
+    "start_date_local": "2025-07-13T11:19:19Z",
+    "timezone": "(GMT+01:00) Europe/Paris",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15101487769",
+      "summary_polyline": "_cubH}uqi@q@GDDsAYEFm@Gc@\\GPc@f@OA[Tc@@sDlBgAm@sAqAu@IVAe@bAD]Ci@e@[K{@KUcIwF{EvAY@u@_@G@k@m@WJa@^BPl@j@`CnA`CN`ChAxBhD~@rD?LCs@K]@m@ESk@_@cAgBa@YS[a@}AsCKgA?eA_@]]g@GGGWwA?a@c@a@aA@_Dd@gGCcAaBl@g@PWPc@Ei@qCMm@QKb@m@{AGlAIN?GEFGTq@r@Wd@I[GN[HOP@GICGM@c@N}AM_@?Su@eAm@l@FS@o@iDsHeBwFBGJHLYJGhAIF?d@`@D_CUV?OIc@_@{@C[Yk@@SCYUs@WoAWg@DS_@eAB[Rc@AMFSLwBEiAIe@E}EFa@GmAGKDIOGIUYb@IBCVs@lAKf@SFAPOb@AVKRCCMLBJQ@W[cAaAw@g@OEINi@Eu@HQJWIk@?SNk@Dc@VOTUFeAbAa@j@g@Rs@g@w@Mu@iAeCwA{APoC~Ae@Oe@ASFm@CoAMMIa@@yAs@UNq@JkAGk@QAG@JC@@EEHCGCPDE@GAF?OC?JHNIMF]wABKQiFsA_ED?AOSiAEGGoFCGPkAKM@a@RYHC@H?[EYFo@Oc@NA?MH??JNNXDHLd@R`D`A`C~FLPxBfFL`@v@n@|AaB\\}Az@eCTWj@Lh@?b@WRCnAp@v@X^T`@j@Rb@NjAb@f@P@XYXGx@Bd@MLBZ^PBl@Ud@q@b@[Vu@j@cAXQ\\m@VKZ@d@\\rAXtAUfBCnAk@|A{AVgA`BiCn@Up@A\\PvA|@NTTJf@r@j@RhAxB`@fAPv@RXtAU`CqBtDnAC?@FJNd@P`@~@^NlBnEPT|B|E`CtDDGV@^L?KBD@HLAd@i@vCxC|Cp@~B|E`D@b@IrDJfAZQYGBHLH??KzDlD~C~AjD~@j@XC\\@PDBEHV^j@f@b@TZ^|BvA`@DPIBJND~AHHKjAi@p@EENE?BQBPCQ?FPPRHdCEtAjAlA|BHd@ELqB|AW~@UtAsArDC|@@jAiAbDI`AV`CK^QJEPCdBXjAbArAD\\Cj@KX[^EVg@j@LIBc@FQv@aABYQy@q@w@M[QaA?q@Ia@O?Wd@WLYOwB_@]Y{@KOOI?@Dk@V",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.789277,
+      6.976613
+    ],
+    "end_latlng": [
+      47.789047,
+      6.976702
+    ],
+    "average_speed": 1.593,
+    "max_speed": 7.978,
+    "average_cadence": 48.2,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 1008.9,
+    "elev_low": 442.7,
+    "upload_id": 16124332442,
+    "upload_id_str": "16124332442",
+    "external_id": "stripped_a192c7b1-e9d8-4cef-b651-e6efc3d77891-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Wildgehege-Röthekopf-Bergsee-Wildgehege",
+    "distance": 6762.4,
+    "moving_time": 6108,
+    "elapsed_time": 14515,
+    "total_elevation_gain": 300.7,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 15089351012,
+    "start_date": "2025-07-12T09:16:32Z",
+    "start_date_local": "2025-07-12T11:16:32Z",
+    "timezone": "(GMT+01:00) Europe/Berlin",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15089351012",
+      "summary_polyline": "kbjaHkbno@a@XKAD?ESEAsAFo@d@]~@ST_@LYCg@RYE_@Ji@BMHCJOPg@RY@[ZUd@y@p@g@jAw@l@m@NMj@a@dAQTSt@u@n@WIa@e@k@AKKS[m@?WBWa@Mc@KKWF[WSEODk@Zu@Iq@e@c@IEIBAEQYUc@OWDKSYd@@E?L_@Fe@Ka@g@Wy@kAgBSsAMUc@a@?oAQi@IOM{@[sAQSq@Jg@ESKk@Gm@a@k@OWFILSCMOYH[Iw@A[BUe@cAoAMEk@eAg@c@e@y@Q_@AUQi@C_@HOCSCIK@CG@HFCAJEGBBID@EEC?EHD?MCADHC@DABJE@DGE[E@CXD@DRA[BB?E@PKIBAAMKBJJDEEF@K@FDG?DCAJF@ECCB??DBCGB?DEKC??LDECKCJ@DB?@FMDARYf@An@Kp@@\\Nf@ZXP\\TL`@`@BGb@l@JTXfAXt@j@G`@AZJlABVVr@\\\\^XH\\TVz@Ed@Yl@Sz@MRGV?NDZLZl@VX@j@Xh@h@L\\l@f@HZLTt@l@RJf@l@h@Lr@j@bBj@@RPPACFI?Fd@Kd@@d@^r@JDHND~@FZVhAEh@Lb@~@Ld@n@h@K^XJVAJHNGHFIBHDDRF?KA@GDFADOUD?C@?G@DEFBSE@F@?N?K@DBGGC@F?EG@BCADDIGBB@@IGJF@AEG@NDC?BEACADAKGJBABQEABL@CGEB@DLBCC[He@d@_@B@AFPMJ?BFYr@@PD@JSRCLKL_@TQBKDABQDHEJEj@@p@IZBJCXC?BGC]XaCIKMCCSDENN?GLCIQ@MOK@GN@JNUo@H?EGBAHHJRN?XNEA?GFJCOKMMe@K?MSHO@Q?HBAADFHd@X\\bAl@^b@lAMCZFfCABFCOBB@GIO@[IcADA?MANBNC@@DHl@A{@BH?GIi@?aAFa@LYAIHUn@a@`@MRBhAj@fAjDGJD`@HHED@FKOIF?h@_@dAKhBKh@YxGKv@AlHGIJIbABhDaBCJJ?DMXWRG?KVYBKVGLOfBiEAE@JCC?I?J?EB@@DC?BM@J@K@FCKAB@FAGDFBYAi@DFQe@I}@MWCk@C@m@qBq@sA@EGBI_@MKYFMVQBa@YOBAGs@ASMOm@E]B[ABOMBe@QWESXyH`C{DL_@bEiELU",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.568738,
+      7.941971
+    ],
+    "end_latlng": [
+      47.568385,
+      7.941959
+    ],
+    "average_speed": 1.107,
+    "max_speed": 8.35,
+    "average_cadence": 46,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 567.2,
+    "elev_low": 358,
+    "upload_id": 16110998912,
+    "upload_id_str": "16110998912",
+    "external_id": "stripped_50a587df-2659-420a-8a72-55c4eedb7cd2-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Friedlingen Test Run 1",
+    "distance": 3465.5,
+    "moving_time": 1396,
+    "elapsed_time": 1409,
+    "total_elevation_gain": 11.7,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 14866509062,
+    "start_date": "2025-06-21T06:42:17Z",
+    "start_date_local": "2025-06-21T08:42:17Z",
+    "timezone": "(GMT+01:00) Europe/Berlin",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14866509062",
+      "summary_polyline": "stnaHgvkm@Ae@O_BA_@BSFGp@[TQRGNKnAs@r@UXAv@Ih@Hj@Zj@Pl@Dh@Hh@XPDT?^SD?^RJVRTFE?IJSFEH?JG`@DpA\\`@BXHZ@XHrATbA^|BX`@AJ@TLJHFZJTJJXNDDVf@D\\AV}@pEa@fAQr@_@`AYb@Oh@[t@Gz@M~@SfAa@zCUjAKnAWjAU|AMb@WxAYfAYzAw@h@IBO?ODMP@b@LP?DEB?HDFPHJJBL@h@Gz@SzACv@MhACj@Kn@K?_@Fc@?KBI?i@SkAs@q@W_@YMSEYEo@EGGCg@_@o@U{@g@mAc@cB}@SUEW^qC?KEOQGWg@MKUEY@y@GSIGGCQ@MNe@Fc@TyBP}@PeBTsADEN?f@ZhB`@N@NEDIRqADu@@{@HgAAWIOmBUkA]m@IQGa@Ig@EIECS?MJo@",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.593318,
+      7.600308
+    ],
+    "end_latlng": [
+      47.593313,
+      7.60024
+    ],
+    "average_speed": 2.482,
+    "max_speed": 5.48,
+    "average_cadence": 74.5,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 253.7,
+    "elev_low": 243.5,
+    "upload_id": 15866847552,
+    "upload_id_str": "15866847552",
+    "external_id": "stripped_05d6581d-31cd-432f-93d2-6e5c80bd204c-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Istein-Isteiner Klotz-Isteiner Schwellen-Istein",
+    "distance": 10106.2,
+    "moving_time": 8799,
+    "elapsed_time": 18284,
+    "total_elevation_gain": 206.1,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 14860224183,
+    "start_date": "2025-06-20T08:50:54Z",
+    "start_date_local": "2025-06-20T10:50:54Z",
+    "timezone": "(GMT+01:00) Europe/Berlin",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14860224183",
+      "summary_polyline": "q}{aH{l`m@KNc@EsBiAcA@OJn@\\`@pAD`@IlAeAlDI|@Fn@Tn@j@t@L|@GnCDbBG`AWx@}AjAUn@uCdEYz@WlCe@F_AOMnAQv@Ab@P~@NhBd@jIHf@AxAJ|AY`@RRPt@O@DFAGq@TcAw@e@s@YmAMiAGBQd@An@MZSAY]cAa@[i@YcAe@w@Oo@g@eAWgAg@eAk@iBUg@MBMl@Fr@ERMg@mAQ]Hq@k@Qg@Dk@MkDIa@KGe@{@UUWm@I}@@_@WsBi@w@q@i@Se@SOGf@BxEE^@tBDXGVbAhG^x@Jp@FdBU~A@bAZ|@|@lAn@`Ct@`BjA`@d@E|@LbB`Ax@fAzAfEb@h@|AUt@JfBUTWnDoB@IN?\\W`@k@rBaBc@g@AKED?QINHI@H?WCL@IBLDECDD@EALRVZRHb@~@VRKEFi@[mCo@k@LY?O[}ASgBB_EHo@V}@RWbARV_BlAgDZa@f@?`@ML_@Dq@|@mCVi@b@Y`@cBVyAC{AG?F?ECBc@E_@HgA?o@^wALoBTg@NaAZ_AZm@l@d@C[La@zCuD~@{@~A_A~BQDDBnAL^HrB\\?TSh@MDK`@C@pBFt@Av@H`B?pCFTt@]tEaA\\W|@MjC_AFc@KuB[_BVk@TXXQAFd@bARFLRb@NfAz@fBzA|@dAdBvClAj@VXp@lA~@d@EP@Jd@z@JANW?MxB_Eh@AfAVT?ROb@s@b@qARUnA{Cz@{AZ^L|BOhBH`@BEGCBBCBDAAHBEGCB??GDDEGFD?@MEJDAIAFAGG@ASC@DCE@DBADAG@JNBGHF?QUD?AG@ZJFCEDBg@Ua@YC}A^cBLMLBO[KAj@qBZi@QWo@Q_A{@SBeAdD{AzCo@zAkC`F_@bAi@r@]z@_@^g@z@@FX?Zc@BQMc@]i@]y@e@?u@uA_@Y_@Ca@Wo@oAC\\c@d@c@t@s@z@ISM\\}BhDe@LeA`Ae@n@g@`@]n@WH}@IBDgAl@iBn@iCbB{AxAiChBKMOk@O@a@d@ICQ_@Cc@D_CIoBcA@c@JuBAi@HCLa@JcA?WWEmAgACEKK}B@aACKWDc@q@Ae@e@{A@IQ{@Bc@Mw@",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.661142,
+      7.543716
+    ],
+    "end_latlng": [
+      47.661305,
+      7.542334
+    ],
+    "average_speed": 1.149,
+    "max_speed": 3.46,
+    "average_cadence": 49.9,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 378.8,
+    "elev_low": 230.2,
+    "upload_id": 15859969112,
+    "upload_id_str": "15859969112",
+    "external_id": "stripped_70f8071b-21d7-41ce-a712-64e56d2f4a95-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Thann-Château de l'Engelbourg-Croix du Rangen-Thann",
+    "distance": 4657.5,
+    "moving_time": 2746,
+    "elapsed_time": 8643,
+    "total_elevation_gain": 234.9,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 14753993871,
+    "start_date": "2025-06-10T09:31:46Z",
+    "start_date_local": "2025-06-10T11:31:46Z",
+    "timezone": "(GMT+01:00) Europe/Paris",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14753993871",
+      "summary_polyline": "ekybH_kjj@IB?Ae@AC@Q^?HMN?Lj@vB@ZA@GIAa@Ic@a@uAeAoBMAQSIBKCOSE@ECKJc@BGDIPeAt@]DSFGDYD_@CqBDEGc@GK@MQNrCfB|C?DJ@HDBCF@VCEINBb@IFDv@VPB?@A@JJBFHDA@B?@CEHQ|AqAxB@sAEK@K]YEKAHC@BA?@IBa@ABDCAE@AB@DAVC?AKOEEUF_@_@{CwBsDAY@GAB?E@m@CCA]Ga@Oq@[q@y@mCBOEcF_BcFcA_BMc@KKAG@]DKAEPa@D[]k@][YOOQCK?I@GJS@MCGMIC?AG@?GUU_@Sk@]_ACSc@kAIi@@AFDNX\\^jCd@l@R|AXF?TLh@NDFD@JWNCVO\\]pBQA@LHb@`AHLDNBABXRt@Rh@\\d@dArAjCo@BKCSQm@UOFC?CEF@?E@HG?DCB?CAH?BCGDHBCNCJKLEDEFOHGPY?]BU?}ACWIc@Ac@n@iGbAoBh@a@TGnAiE@K@C@@CCBA@@@HDv@AJAAB^Ep@@XIb@@ZSPGNC@?AK\\C@AA@CAA_@^S^EP^fFNd@A~DQfAAAAVBBITEf@Q`A?IB@CL_@|CGRIt@Qj@ANa@lAWj@YV{@p@EAQDKJ]?KLQBABARBEGTEF?C@??BGt@GPKLIVh@v@",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.810468,
+      7.104971
+    ],
+    "end_latlng": [
+      47.811574,
+      7.104815
+    ],
+    "average_speed": 1.696,
+    "max_speed": 7.18,
+    "average_cadence": 48.2,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 505,
+    "elev_low": 336.8,
+    "upload_id": 15745070287,
+    "upload_id_str": "15745070287",
+    "external_id": "stripped_f891fc5b-0e23-4569-8574-5d3812c86f62-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Rimbach-Vogelstein-Fuchsfelsen-Duerenfels-Rimbach",
+    "distance": 12968.9,
+    "moving_time": 4695,
+    "elapsed_time": 20357,
+    "total_elevation_gain": 645.2,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 14745817294,
+    "start_date": "2025-06-09T10:13:52Z",
+    "start_date_local": "2025-06-09T12:13:52Z",
+    "timezone": "(GMT+01:00) Europe/Paris",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14745817294",
+      "summary_polyline": "wy|bH{yli@OwAi@G[]_@U{AiA}DgFa@s@]gAUa@@ISSIk@E?@OMi@PcAFiAAOADD?CSMk@Sa@a@_EBIKc@As@IKQwB]qBIoJLuBXyCDWVqDp@yHGgIp@oHDkDE_@Ji@EI@]Fg@?eAMU_@Me@_@]u@K_@Gi@UEGBg@i@m@KSMSUeAmGQwBGQO?EGKqAEUe@y@oCmCwA_@g@k@mBiDQu@UYc@{A?IIEAODi@Gc@@qBCE?IR}@PoAFO@]CMAWL[Ym@?Yp@yAh@qCP}DCK?_@AB@@EaDgAsCGk@GGMi@KIQi@_AiBqBeC{BwBeBmBBAYOGM?MGWQWm@m@cBiACUBLB]Cw@HEVo@f@c@v@k@lCqATQ?ERCd@a@VCBSNQz@Wr@EHBzB]HKFA`@c@\\U^GpCaAADd@m@Xq@Po@fByD`BuCPIfAHHCBCDWPMXKf@k@nDsBhBuDPMBQDGZ_APmAIUYiDn@wAF?LOFQR_@Jg@Tk@d@oDD{AAi@Lc@Bo@TkAN_@f@j@AF`@JEd@?OpAi@G@@EFFIGD??KIMHN?PABBYAGG@B@C??HCIBJ@AEQSG?P{@qACc@B@CB?SCn@Fl@GZCb@]cAw@`ESbEI`@o@rCSZ@DU`@G\\QNGPSjEZv@BRBDRFHUT]HWBWrAoDx@}CpCqCdBGJ_@FACCBAEAGF@]DD^QJDVETISLx@e@lCLx@qAHm@ZWf@GLKj@Px@HJECEV@RKXAPNRDLXBRE@IKAHOC@DTVlA~Bz@LAF@HLTP|@HpEC?DFBGKA@_@Eo@@GCIGE?U?LMCWPKGIWc@?MOG]a@e@QMyCy@_AbB[tDa@`CPbCjBdDmBSOMUz@g@[AG]e@GHBh@EADNVD`BjBmAIj@lBdCpBnBbCA?Jb@N`@F@JPGMYOiBQg@?}CfBe@nCdA|FyB~AOTEbDFHEB?Pq@p@qB^eAfCo@x@yCV[IGfFFLp@~DIf@Nl@@f@HRG@?EJHFCJN\\vARf@|AjG@f@Rh@d@lFAZu@|GaCzBqBnCIv@_AdDeAnEQP?H[rAITATFn@A|GIbIHv@c@nFgAvFYrD?t@GxADd@CZBBCRB?BIE?AXs@mEWkFCD@hFg@dGArBTnC[nCIPSdD@TQ|Ag@pGIhLL|@lAbOn@lCGnEbArCnBzCfCzC~DvC",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.827961,
+      6.95162
+    ],
+    "end_latlng": [
+      47.827834,
+      6.951649
+    ],
+    "average_speed": 2.762,
+    "max_speed": 8.828,
+    "average_cadence": 47.9,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 1157.3,
+    "elev_low": 584.4,
+    "upload_id": 15736259464,
+    "upload_id_str": "15736259464",
+    "external_id": "stripped_0d726b3a-8726-4d62-8ecf-9538cbbf7e61-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 1,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Chalet du Plain du Repos-Faigne des Minons-Grand Drumont-Le (Petit) Drumont-Chalet du Plain du Repos",
+    "distance": 6749.6,
+    "moving_time": 2508,
+    "elapsed_time": 10095,
+    "total_elevation_gain": 439.2,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 14735347016,
+    "start_date": "2025-06-08T11:52:21Z",
+    "start_date_local": "2025-06-08T13:52:21Z",
+    "timezone": "(GMT+01:00) Europe/Paris",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14735347016",
+      "summary_polyline": "knkcHsqci@KBmDjBc@LMAABECKBEA[DWEKQOOICC@WAgCgBAKB?CGCc@G]CC?QNkAN}AFO@_@CQF]@WG?AEsC{B}DcCuBcEQe@@JE@S_@Qm@AYIMGa@Sk@eAeGgAeFaBqEQc@gAkFu@eGGEGQEAIYQ]OG@AA@ACI_@KYe@mEQm@mA{AAGSC?@IGE?CW@KBB@DyB{BM]eByAsAU?BGA_@o@i@g@G@IHAZYTGHC?GDU`@}Bc@SFq@[Ji@EF?BN_@Fg@RYHGBDLGMoEe@}EGFHEm@WSFGAMDICABEIMa@@ICOKMy@wD_@}B?CFERB@@@ATJDCPmBpAwABB?GCH?AB@zAaAF?fBu@fCk@LDJKJC`@DHAJDVGtA^l@EJCjDGBBfBDBEVKhBs@J@hBuAD?HKD?@EAEJ@|@g@LMHO@IB?ADz@gAXADBD?FSFCFH^CHCNDRAJQDAFH?HEBBDD@DE@KGTE@BA?HBAEERRJZFBJCPH|AnB~AlBL?vClAHJxCfBJ@nCjB@DJEBBBGF@HID@FKD@KBAG?BEBAECNWLl@`Dn@fGRl@^d@`@x@B\\FR|B|Ed@pEhBtEFj@HRABDBZz@X|@?NJJPl@jArB@HLJHBTTF@NLD@?FHHXTZv@C?D??CAL@GCBFH?HBDD@KtDCPa@hFWx@BHCR?AJAFL?CCB?Ai@pE?CCBOhAmAdBIDCJEBCFKDCHQHEJCXML?DDEADS@OEC@?D?TBZ@CECpBr@lAI@NCH@HCTKRAECAQVIr@S`@kC|CC?MXON[HQJG@CDCCUDOJAHx@bBJB",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.901855,
+      6.90527
+    ],
+    "end_latlng": [
+      47.901974,
+      6.905819
+    ],
+    "average_speed": 2.691,
+    "max_speed": 8.867,
+    "average_cadence": 47.6,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 1217.8,
+    "elev_low": 864.7,
+    "upload_id": 15724907500,
+    "upload_id_str": "15724907500",
+    "external_id": "stripped_01808ed8-29b6-41ae-9b80-99c018f2143e-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Bussang-Chalet des Evaux-Statue Sainte Barbe-Bussang",
+    "distance": 6581.6,
+    "moving_time": 5828,
+    "elapsed_time": 7371,
+    "total_elevation_gain": 328.5,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 14726957918,
+    "start_date": "2025-06-07T16:53:36Z",
+    "start_date_local": "2025-06-07T18:53:36Z",
+    "timezone": "(GMT+01:00) Europe/Paris",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14726957918",
+      "summary_polyline": "ehgcHgmyh@G?EQYOk@?CI@YDQb@k@VsAb@uAPaARo@BIB@H[?D@KCKFm@Nw@n@qBHe@DK@i@NaAH}@Lk@Vo@`@y@VYJYLy@?s@FSD]R{@DkA?{@HSGBBKCeBD]BCJCHKD@b@SHG?Er@[ZYAFFQJK?GNa@D@Vw@T_@Je@Fq@HI@Gh@gAVq@La@Fm@ZiANcAPy@Fc@?g@PeBHYV[N{@Na@FIJCFUAG\\m@XOPW`@Qf@QFIHUJMACh@m@FSB@\\a@LYPGJa@VW`AwA?IVk@Li@DeAImA?GBA?SESGEWDi@X_@BYJY?c@Te@JGL_@?CEf@o@h@a@|@gABIXIl@o@ZI`@g@j@Qb@i@LGJe@NOXm@ZmAXa@Xw@TQDG@@FS`@Qh@q@?IQBm@Mm@DQDo@Uq@TS@{@XCEWT?Fw@b@SRG@IRB@C_@D]AICABGAIDYMFQEIFEAKHAFYHEHIDICa@LAEFGOg@?MFQ^k@?CMDKKHCYEQ@OJ_@ASELFN?UIGSIIu@Bc@ISUo@QWKMIMOYOSCQI[CGGKWAF?QKQQQEDKGKQI_A@GF?BJO?D??BXf@LPTj@CFG?GLMAg@]AGm@R]Go@a@UC[N_@d@Yj@Wr@Q`@@BECJKG@MZK\\ALEF@?GNe@l@IDCHOJAEFAEBBBKBEVE?AB@FWRIVQfAGR@VDVIl@Ev@AAB?CF@D]x@a@p@y@hB?r@DZBr@FXLRBLIXAh@GHCTKVKf@OXQPKDOPOHYDQX[TAFKBc@`@e@p@Ub@Of@C??JIJIVIf@Q\\Gr@Mb@BXAd@Ff@DR?d@A@HPJ`ABJB@AR@@COAJFPDd@JXA@CED`A?p@Lj@Jx@FABHAVJj@@PCJBDAPFV?JMn@Ah@AH_@r@U@a@R[CuAFw@I@C?BODc@WSE@Kk@Ke@CMUk@YUIYBALLNXjANZPlAz@zB@RIDQO_@OE@OI?EW?QGUK@Eu@q@I?AH\\\\\\pALVFZBE?FBB?VN`@LLNv@\\t@f@nBVn@Hf@DB@VTx@@Tt@xFX~Af@bCKj@Tl@A@BHDCAEF@?LFT\\~@NVDR@NLVL`@t@lA\\FPPOD@ABOXB~@T^LFHNDT?PHTB`@CRHHJh@\\lAR",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.882726,
+      6.851741
+    ],
+    "end_latlng": [
+      47.882179,
+      6.85051
+    ],
+    "average_speed": 1.129,
+    "max_speed": 2.52,
+    "average_cadence": 50.7,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 921.9,
+    "elev_low": 597.4,
+    "upload_id": 15715816463,
+    "upload_id_str": "15715816463",
+    "external_id": "stripped_b773a026-fdf6-4dc3-9eb5-d852f8b3fdeb-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
     "name": "Ermensbach-Neuweiher-Seewald-Ermensbach",
     "distance": 12786.3,
     "moving_time": 12825,
@@ -38,12 +721,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.82,
-      6.94
+      47.818603,
+      6.939833
     ],
     "end_latlng": [
-      47.82,
-      6.94
+      47.818304,
+      6.940055
     ],
     "average_speed": 0.997,
     "max_speed": 7.84,
@@ -100,12 +783,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.82,
-      7.14
+      47.824862,
+      7.141348
     ],
     "end_latlng": [
-      47.83,
-      7.14
+      47.825279,
+      7.140872
     ],
     "average_speed": 1.035,
     "max_speed": 3.89,
@@ -162,12 +845,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.69,
-      7.64
+      47.690369,
+      7.644246
     ],
     "end_latlng": [
-      47.71,
-      7.66
+      47.713842,
+      7.657151
     ],
     "average_speed": 2.348,
     "max_speed": 7.16,
@@ -224,12 +907,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.87,
-      7.1
+      47.873756,
+      7.103211
     ],
     "end_latlng": [
-      47.87,
-      7.1
+      47.873822,
+      7.103216
     ],
     "average_speed": 1.11,
     "max_speed": 3.578,
@@ -286,12 +969,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.5,
-      7.8
+      47.498473,
+      7.79683
     ],
     "end_latlng": [
-      47.51,
-      7.81
+      47.508973,
+      7.80973
     ],
     "average_speed": 1.151,
     "max_speed": 3.45,
@@ -348,12 +1031,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.51,
-      7.98
+      47.508321,
+      7.980648
     ],
     "end_latlng": [
-      47.51,
-      7.98
+      47.508318,
+      7.980679
     ],
     "average_speed": 1.229,
     "max_speed": 11.895,
@@ -410,12 +1093,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.71,
-      7.66
+      47.710989,
+      7.66293
     ],
     "end_latlng": [
-      47.64,
-      7.69
+      47.637382,
+      7.694959
     ],
     "average_speed": 1.301,
     "max_speed": 3.96,
@@ -472,12 +1155,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.59,
-      7.6
+      47.593186,
+      7.600301
     ],
     "end_latlng": [
-      47.59,
-      7.6
+      47.593388,
+      7.600323
     ],
     "average_speed": 1.463,
     "max_speed": 4.22,
@@ -534,12 +1217,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      8.03
+      47.436708,
+      8.029753
     ],
     "end_latlng": [
-      47.41,
-      8.01
+      47.40586,
+      8.007324
     ],
     "average_speed": 1.225,
     "max_speed": 4.52,
@@ -596,12 +1279,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7
+      47.391458,
+      6.996956
     ],
     "end_latlng": [
-      47.37,
-      7.17
+      47.367846,
+      7.165709
     ],
     "average_speed": 1.271,
     "max_speed": 6.1,
@@ -658,12 +1341,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.34958441928029,
+      7.767592649906874
     ],
     "end_latlng": [
-      47.39,
-      7.82
+      47.38597973249853,
+      7.8196614515036345
     ],
     "average_speed": 1.148,
     "max_speed": 7.272,
@@ -720,12 +1403,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.5,
-      8.07
+      47.49943507835269,
+      8.066487545147538
     ],
     "end_latlng": [
-      47.51,
-      8.01
+      47.507068226113915,
+      8.0129773914814
     ],
     "average_speed": 1.243,
     "max_speed": 9.944,
@@ -782,12 +1465,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.45,
-      7.46
+      47.45144382119179,
+      7.4619590397924185
     ],
     "end_latlng": [
-      47.45,
-      7.47
+      47.45488056913018,
+      7.471537962555885
     ],
     "average_speed": 1.194,
     "max_speed": 2.522,
@@ -844,12 +1527,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.38
+      47.28033632040024,
+      7.381095299497247
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.2803798224777,
+      7.3815244529396296
     ],
     "average_speed": 1.124,
     "max_speed": 7.818,
@@ -906,12 +1589,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.19,
-      8.76
+      46.18877749890089,
+      8.755519045516849
     ],
     "end_latlng": [
-      46.19,
-      8.75
+      46.18897053413093,
+      8.754997858777642
     ],
     "average_speed": 0.98,
     "max_speed": 2.814,
@@ -968,12 +1651,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.13,
-      8.82
+      46.125550623983145,
+      8.821293767541647
     ],
     "end_latlng": [
-      46.13,
-      8.82
+      46.125586833804846,
+      8.821488143876195
     ],
     "average_speed": 0.801,
     "max_speed": 4.48,
@@ -1030,12 +1713,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.91
+      47.35158677212894,
+      7.906793346628547
     ],
     "end_latlng": [
-      47.35,
-      7.91
+      47.35124143771827,
+      7.908818917348981
     ],
     "average_speed": 1.065,
     "max_speed": 5.552,
@@ -1092,12 +1775,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.29,
-      7.72
+      46.293493285775185,
+      7.7150763384997845
     ],
     "end_latlng": [
-      46.29,
-      7.71
+      46.29332405515015,
+      7.714845333248377
     ],
     "average_speed": 0.985,
     "max_speed": 2.618,
@@ -1154,12 +1837,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.41,
-      8.15
+      46.41064035706222,
+      8.150532050058246
     ],
     "end_latlng": [
-      46.41,
-      8.15
+      46.41068184748292,
+      8.15087235532701
     ],
     "average_speed": 0.93,
     "max_speed": 2.871,
@@ -1216,12 +1899,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.5,
-      7.86
+      47.49513792805374,
+      7.855951823294163
     ],
     "end_latlng": [
-      47.5,
-      7.86
+      47.49518687836826,
+      7.8559118416160345
     ],
     "average_speed": 0.953,
     "max_speed": 7.476,
@@ -1278,12 +1961,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.96,
-      6.72
+      46.95512526668608,
+      6.722221216186881
     ],
     "end_latlng": [
-      46.96,
-      6.83
+      46.958490181714296,
+      6.833370449021459
     ],
     "average_speed": 1.217,
     "max_speed": 7.022,
@@ -1341,12 +2024,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.57016157731414,
+      7.588937329128385
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.55309677682817,
+      7.543573966249824
     ],
     "average_speed": 4.718,
     "max_speed": 9.168,
@@ -1402,12 +2085,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.24
+      47.41748873144388,
+      7.243429329246283
     ],
     "end_latlng": [
-      47.37,
-      7.17
+      47.367879347875714,
+      7.165493220090866
     ],
     "average_speed": 1.104,
     "max_speed": 8.562,
@@ -1465,12 +2148,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.55
+      47.55176288075745,
+      7.548032971099019
     ],
     "end_latlng": [
-      47.55,
-      7.55
+      47.55277315154672,
+      7.548788767307997
     ],
     "average_speed": 3.408,
     "max_speed": 8.334,
@@ -1526,12 +2209,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.56151866167784,
+      7.643889337778091
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.561221523210406,
+      7.6437897607684135
     ],
     "average_speed": 1.436,
     "max_speed": 7.71,
@@ -1588,12 +2271,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.06
+      47.27707089856267,
+      7.058356991037726
     ],
     "end_latlng": [
-      47.34,
-      7.21
+      47.335589323192835,
+      7.207628041505814
     ],
     "average_speed": 1.348,
     "max_speed": 3.85,
@@ -1650,12 +2333,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.33,
-      7.84
+      47.33073494397104,
+      7.843627575784922
     ],
     "end_latlng": [
-      47.39,
-      7.82
+      47.385810585692525,
+      7.819765219464898
     ],
     "average_speed": 1.164,
     "max_speed": 3.608,
@@ -1712,12 +2395,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.24,
-      7.49
+      47.23593419417739,
+      7.493888223543763
     ],
     "end_latlng": [
-      47.28,
-      7.53
+      47.28044109418988,
+      7.5280215963721275
     ],
     "average_speed": 1.062,
     "max_speed": 4.463,
@@ -1774,12 +2457,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.25,
-      6.99
+      47.25496388040483,
+      6.994716553017497
     ],
     "end_latlng": [
-      47.25,
-      6.99
+      47.254620557650924,
+      6.994304833933711
     ],
     "average_speed": 1.125,
     "max_speed": 3.326,
@@ -1836,12 +2519,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.34896717593074,
+      7.76831123046577
     ],
     "end_latlng": [
-      47.39,
-      7.75
+      47.38557144999504,
+      7.750238087028265
     ],
     "average_speed": 0.935,
     "max_speed": 6.898,
@@ -1898,12 +2581,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.84
+      47.488031163811684,
+      7.839408293366432
     ],
     "end_latlng": [
-      47.47,
-      7.84
+      47.47375368140638,
+      7.840847047045827
     ],
     "average_speed": 0.877,
     "max_speed": 7.676,
@@ -1960,12 +2643,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.4,
-      7.69
+      47.397104278206825,
+      7.691873554140329
     ],
     "end_latlng": [
-      47.36,
-      7.66
+      47.35954077914357,
+      7.65585919842124
     ],
     "average_speed": 1.012,
     "max_speed": 3.668,
@@ -2022,12 +2705,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.91,
-      7.1
+      47.905012741684914,
+      7.103699231520295
     ],
     "end_latlng": [
-      47.9,
-      7.1
+      47.90461334399879,
+      7.1035421546548605
     ],
     "average_speed": 0.836,
     "max_speed": 2.208,
@@ -2084,12 +2767,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      8.54
+      47.37786177545786,
+      8.540064739063382
     ],
     "end_latlng": [
-      47.38,
-      8.54
+      47.37864715978503,
+      8.541317749768496
     ],
     "average_speed": 1.413,
     "max_speed": 18.354,
@@ -2146,12 +2829,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.95
+      47.386085260659456,
+      7.947585387155414
     ],
     "end_latlng": [
-      47.42,
-      7.91
+      47.4166483618319,
+      7.907374128699303
     ],
     "average_speed": 0.969,
     "max_speed": 4.096,
@@ -2208,12 +2891,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      7.87
+      47.37826352007687,
+      7.872398039326072
     ],
     "end_latlng": [
-      47.39,
-      7.82
+      47.38565283827484,
+      7.820134777575731
     ],
     "average_speed": 0.997,
     "max_speed": 5.382,
@@ -2270,12 +2953,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.82
+      47.38596372306347,
+      7.819375963881612
     ],
     "end_latlng": [
-      47.41,
-      7.81
+      47.40564761683345,
+      7.8095368668437
     ],
     "average_speed": 1.009,
     "max_speed": 5.447,
@@ -2332,12 +3015,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.3,
-      7.23
+      47.303099893033504,
+      7.225524829700589
     ],
     "end_latlng": [
-      47.3,
-      7.23
+      47.30309519916773,
+      7.225476633757353
     ],
     "average_speed": 0.991,
     "max_speed": 11.791,
@@ -2394,12 +3077,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.68
+      47.553211357444525,
+      7.682602582499385
     ],
     "end_latlng": [
-      47.55,
-      7.68
+      47.553295344114304,
+      7.682669134810567
     ],
     "average_speed": 1.291,
     "max_speed": 5.518,
@@ -2456,12 +3139,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.24,
-      6.98
+      47.243634732440114,
+      6.9844913855195045
     ],
     "end_latlng": [
-      47.24,
-      6.98
+      47.243660632520914,
+      6.984489373862743
     ],
     "average_speed": 0.97,
     "max_speed": 3.45,
@@ -2518,12 +3201,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.42
+      47.348955776542425,
+      7.41711912676692
     ],
     "end_latlng": [
-      47.35,
-      7.46
+      47.34860264696181,
+      7.456180555745959
     ],
     "average_speed": 1.047,
     "max_speed": 4.408,
@@ -2580,12 +3263,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.69
+      47.55415951833129,
+      7.691558646038175
     ],
     "end_latlng": [
-      47.55,
-      7.68
+      47.55329232662916,
+      7.68281782977283
     ],
     "average_speed": 1.073,
     "max_speed": 2.884,
@@ -2643,12 +3326,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568821059539914,
+      7.586358720436692
     ],
     "end_latlng": [
-      47.59,
-      7.59
+      47.59115053340793,
+      7.59270784445107
     ],
     "average_speed": 3.453,
     "max_speed": 9.752,
@@ -2704,12 +3387,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.68
+      47.5532765686512,
+      7.682670895010233
     ],
     "end_latlng": [
-      47.55,
-      7.68
+      47.5533143710345,
+      7.682728478685021
     ],
     "average_speed": 1.168,
     "max_speed": 4.996,
@@ -2766,12 +3449,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.34923078678548,
+      7.768182065337896
     ],
     "end_latlng": [
-      47.39,
-      7.75
+      47.38568385131657,
+      7.748985830694437
     ],
     "average_speed": 1.041,
     "max_speed": 4.65,
@@ -2828,12 +3511,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.63
+      47.49256887473166,
+      7.62799272313714
     ],
     "end_latlng": [
-      47.49,
-      7.63
+      47.49257239513099,
+      7.628025664016604
     ],
     "average_speed": 1.218,
     "max_speed": 4.794,
@@ -2890,12 +3573,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.31
+      47.49380512163043,
+      7.3138220608234406
     ],
     "end_latlng": [
-      47.49,
-      7.31
+      47.49444214627147,
+      7.313967989757657
     ],
     "average_speed": 0.896,
     "max_speed": 5.496,
@@ -2952,12 +3635,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.33
+      47.43995198048651,
+      7.3274745885282755
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.419300228357315,
+      7.502347994595766
     ],
     "average_speed": 1.331,
     "max_speed": 6.631,
@@ -3015,12 +3698,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.58
+      47.570252353325486,
+      7.583388341590762
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.56845778785646,
+      7.586253695189953
     ],
     "average_speed": 2.783,
     "max_speed": 11.306,
@@ -3076,12 +3759,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      8.06
+      47.56146325729787,
+      8.058254588395357
     ],
     "end_latlng": [
-      47.54,
-      7.95
+      47.54151784814894,
+      7.948318971320987
     ],
     "average_speed": 1.273,
     "max_speed": 4.024,
@@ -3138,12 +3821,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.56135303527117,
+      7.64095994643867
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.5614326633513,
+      7.641041921451688
     ],
     "average_speed": 1.272,
     "max_speed": 9.914,
@@ -3200,12 +3883,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.34,
-      7.5
+      47.34362019225955,
+      7.499974071979523
     ],
     "end_latlng": [
-      47.33,
-      7.48
+      47.32902956195176,
+      7.475080154836178
     ],
     "average_speed": 1.069,
     "max_speed": 3.218,
@@ -3262,12 +3945,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.62
+      47.36183884553611,
+      7.6205159816890955
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.39111943170428,
+      7.599900774657726
     ],
     "average_speed": 0.945,
     "max_speed": 8.835,
@@ -3324,12 +4007,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.58
+      47.438615653663874,
+      7.582466164603829
     ],
     "end_latlng": [
-      47.44,
-      7.59
+      47.44030309841037,
+      7.589263468980789
     ],
     "average_speed": 1.152,
     "max_speed": 3.502,
@@ -3386,12 +4069,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.75
+      47.38597143441439,
+      7.749074678868055
     ],
     "end_latlng": [
-      47.4,
-      7.75
+      47.3968740273267,
+      7.749250531196594
     ],
     "average_speed": 8.732,
     "max_speed": 8.916,
@@ -3447,12 +4130,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.419599797576666,
+      7.502713864669204
     ],
     "end_latlng": [
-      47.48,
-      7.46
+      47.48000708408654,
+      7.458238648250699
     ],
     "average_speed": 1.142,
     "max_speed": 4.043,
@@ -3508,12 +4191,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.6,
-      8.6
+      47.597629157826304,
+      8.601958472281694
     ],
     "end_latlng": [
-      47.6,
-      8.61
+      47.59904611855745,
+      8.606183035299182
     ],
     "average_speed": 0.947,
     "max_speed": 2.216,
@@ -3569,12 +4252,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.54
+      47.5514149479568,
+      7.537657851353288
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.5515169557184,
+      7.53776497207582
     ],
     "average_speed": 1.219,
     "max_speed": 7.709,
@@ -3630,12 +4313,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.59
+      47.36027738079429,
+      7.589888675138354
     ],
     "end_latlng": [
-      47.4,
-      7.65
+      47.3977876547724,
+      7.6526859775185585
     ],
     "average_speed": 0.993,
     "max_speed": 6.926,
@@ -3691,12 +4374,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.86
+      47.39251049235463,
+      7.856543585658073
     ],
     "end_latlng": [
-      47.37,
-      7.88
+      47.367013078182936,
+      7.882612058892846
     ],
     "average_speed": 1.007,
     "max_speed": 4.84,
@@ -3752,12 +4435,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.8,
-      7.67
+      47.801538817584515,
+      7.6721511874347925
     ],
     "end_latlng": [
-      47.81,
-      7.6
+      47.8096110932529,
+      7.599227875471115
     ],
     "average_speed": 1.229,
     "max_speed": 5.572,
@@ -3813,12 +4496,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.3,
-      7.22
+      47.303551342338324,
+      7.223887173458934
     ],
     "end_latlng": [
-      47.31,
-      7.16
+      47.313574170693755,
+      7.1579887345433235
     ],
     "average_speed": 1.111,
     "max_speed": 2.878,
@@ -3874,12 +4557,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.76
+      47.35178139992058,
+      7.763762790709734
     ],
     "end_latlng": [
-      47.38,
-      7.75
+      47.38377671688795,
+      7.748905029147863
     ],
     "average_speed": 0.957,
     "max_speed": 4.536,
@@ -3935,12 +4618,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.38
+      47.280325926840305,
+      7.381416242569685
     ],
     "end_latlng": [
-      47.28,
-      7.42
+      47.28358229622245,
+      7.421864876523614
     ],
     "average_speed": 1.008,
     "max_speed": 6.046,
@@ -3996,12 +4679,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      8.13
+      47.47213622555137,
+      8.128933478146791
     ],
     "end_latlng": [
-      47.47,
-      8.13
+      47.47159852646291,
+      8.12945139594376
     ],
     "average_speed": 1.12,
     "max_speed": 5.318,
@@ -4057,12 +4740,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.47
+      47.265103133395314,
+      7.465523695573211
     ],
     "end_latlng": [
-      47.28,
-      7.53
+      47.28093839250505,
+      7.528677396476269
     ],
     "average_speed": 1.026,
     "max_speed": 3.052,
@@ -4118,12 +4801,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.71,
-      7.85
+      47.705920580774546,
+      7.848987719044089
     ],
     "end_latlng": [
-      47.66,
-      7.84
+      47.66174334101379,
+      7.839483981952071
     ],
     "average_speed": 1.071,
     "max_speed": 3.824,
@@ -4179,12 +4862,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.3,
-      7.38
+      47.30041868984699,
+      7.383616575971246
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.28018846362829,
+      7.381495116278529
     ],
     "average_speed": 0.927,
     "max_speed": 4.107,
@@ -4240,12 +4923,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.46,
-      7.45
+      47.45645863004029,
+      7.451380658894777
     ],
     "end_latlng": [
-      47.44,
-      7.59
+      47.4412080924958,
+      7.590887127444148
     ],
     "average_speed": 1.309,
     "max_speed": 8.97,
@@ -4301,12 +4984,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.4220225866884,
+      7.5978064723312855
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.39157658070326,
+      7.59936491958797
     ],
     "average_speed": 0.884,
     "max_speed": 8.555,
@@ -4362,12 +5045,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.37
+      47.39073721691966,
+      7.369203055277467
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.36203917302191,
+      7.350820954889059
     ],
     "average_speed": 1.078,
     "max_speed": 4.198,
@@ -4423,12 +5106,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.47
+      47.26518779061735,
+      7.465146258473396
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.27992753498256,
+      7.381030758842826
     ],
     "average_speed": 0.874,
     "max_speed": 6.764,
@@ -4484,12 +5167,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.72,
-      6.4
+      46.719488678500056,
+      6.399506041780114
     ],
     "end_latlng": [
-      46.7,
-      6.48
+      46.69657012447715,
+      6.478101722896099
     ],
     "average_speed": 0.991,
     "max_speed": 3.774,
@@ -4545,12 +5228,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.55,
-      6.25
+      46.55271504074335,
+      6.250536823645234
     ],
     "end_latlng": [
-      46.58,
-      6.21
+      46.58179756253958,
+      6.211204743012786
     ],
     "average_speed": 1.024,
     "max_speed": 3.69,
@@ -4606,12 +5289,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.71,
-      6.37
+      46.70809507369995,
+      6.374660991132259
     ],
     "end_latlng": [
-      46.67,
-      6.33
+      46.66609536856413,
+      6.330638816580176
     ],
     "average_speed": 0.975,
     "max_speed": 5.591,
@@ -4667,12 +5350,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.65
+      47.56254427134991,
+      7.652910277247429
     ],
     "end_latlng": [
-      47.57,
-      7.66
+      47.565971380099654,
+      7.655983418226242
     ],
     "average_speed": 1.203,
     "max_speed": 2.892,
@@ -4728,12 +5411,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.67
+      47.581347143277526,
+      7.668172717094421
     ],
     "end_latlng": [
-      47.58,
-      7.67
+      47.58147086016834,
+      7.66829039901495
     ],
     "average_speed": 1.163,
     "max_speed": 3.739,
@@ -4789,12 +5472,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.52,
-      7.7
+      47.51821213401854,
+      7.695174179971218
     ],
     "end_latlng": [
-      47.52,
-      7.7
+      47.51757502555847,
+      7.695282557979226
     ],
     "average_speed": 1.073,
     "max_speed": 4.744,
@@ -4850,12 +5533,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.34
+      47.365700136870146,
+      7.3428405448794365
     ],
     "end_latlng": [
-      47.38,
-      7.47
+      47.38105016760528,
+      7.472537253051996
     ],
     "average_speed": 0.874,
     "max_speed": 5.172,
@@ -4911,12 +5594,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.33
+      47.439902275800705,
+      7.327692853286862
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.362254839390516,
+      7.350606797263026
     ],
     "average_speed": 1.215,
     "max_speed": 4.336,
@@ -4972,12 +5655,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.67
+      47.58337522856891,
+      7.66698089428246
     ],
     "end_latlng": [
-      47.58,
-      7.67
+      47.58352258242667,
+      7.666951473802328
     ],
     "average_speed": 1.093,
     "max_speed": 3.73,
@@ -5033,12 +5716,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.65
+      47.584791,
+      7.651515
     ],
     "end_latlng": [
-      47.58,
-      7.65
+      47.584779,
+      7.651838
     ],
     "average_speed": 1.259,
     "max_speed": 5.64,
@@ -5094,12 +5777,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.373017286881804,
+      7.541606985032558
     ],
     "end_latlng": [
-      47.39,
-      7.54
+      47.38684315234423,
+      7.537221489474177
     ],
     "average_speed": 1.067,
     "max_speed": 3.93,
@@ -5155,12 +5838,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.17
+      47.36791396513581,
+      7.165842745453119
     ],
     "end_latlng": [
-      47.34,
-      7.21
+      47.33526427298784,
+      7.208709390833974
     ],
     "average_speed": 1.045,
     "max_speed": 7.754,
@@ -5216,12 +5899,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.45,
-      7.46
+      47.45074569247663,
+      7.458993270993233
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.46936307288706,
+      7.596458997577429
     ],
     "average_speed": 1.272,
     "max_speed": 3.785,
@@ -5277,12 +5960,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.19,
-      8.75
+      46.18587543256581,
+      8.753392472863197
     ],
     "end_latlng": [
-      46.19,
-      8.76
+      46.19081782177091,
+      8.756292946636677
     ],
     "average_speed": 1.122,
     "max_speed": 2.837,
@@ -5338,12 +6021,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.19,
-      8.75
+      46.18594584055245,
+      8.753709979355335
     ],
     "end_latlng": [
-      46.22,
-      8.75
+      46.216998947784305,
+      8.74653129838407
     ],
     "average_speed": 1.001,
     "max_speed": 3.648,
@@ -5399,12 +6082,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.19,
-      8.74
+      46.18660977110267,
+      8.744242787361145
     ],
     "end_latlng": [
-      46.17,
-      8.77
+      46.167009780183434,
+      8.766559436917305
     ],
     "average_speed": 1.388,
     "max_speed": 3.059,
@@ -5460,12 +6143,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.59
+      47.36018467694521,
+      7.590761566534638
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.39106033928692,
+      7.599859368056059
     ],
     "average_speed": 1.001,
     "max_speed": 3.446,
@@ -5522,12 +6205,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561491671949625,
+      7.641091542318463
     ],
     "end_latlng": [
-      47.58,
-      7.64
+      47.58171904832125,
+      7.643453646451235
     ],
     "average_speed": 3.342,
     "max_speed": 12.692,
@@ -5584,12 +6267,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.91
+      47.3519,
+      7.906489
     ],
     "end_latlng": [
-      47.39,
-      8.01
+      47.385208,
+      8.013202
     ],
     "average_speed": 4.192,
     "max_speed": 8.66,
@@ -5646,12 +6329,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.560563,
+      7.591548
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568323,
+      7.586379
     ],
     "average_speed": 4.536,
     "max_speed": 14.12,
@@ -5707,12 +6390,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.45,
-      7.68
+      47.44969963096082,
+      7.675373191013932
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.46825749985874,
+      7.604923378676176
     ],
     "average_speed": 1.03,
     "max_speed": 4.126,
@@ -5768,12 +6451,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.33,
-      7.37
+      47.33483763411641,
+      7.373139280825853
     ],
     "end_latlng": [
-      47.35,
-      7.41
+      47.34856517985463,
+      7.411613389849663
     ],
     "average_speed": 1.12,
     "max_speed": 6.654,
@@ -5830,12 +6513,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.74,
-      7.34
+      47.74194792844355,
+      7.340941289439797
     ],
     "end_latlng": [
-      47.57,
-      7.58
+      47.56722648628056,
+      7.582140946760774
     ],
     "average_speed": 4.73,
     "max_speed": 10.119,
@@ -5891,12 +6574,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.56135957315564,
+      7.641079975292087
     ],
     "end_latlng": [
-      47.57,
-      7.63
+      47.56764507852495,
+      7.6299661584198475
     ],
     "average_speed": 1.442,
     "max_speed": 7.484,
@@ -5953,12 +6636,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.58
+      47.568587958812714,
+      7.580169187858701
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568834722042084,
+      7.586454190313816
     ],
     "average_speed": 6.057,
     "max_speed": 9.78,
@@ -6014,12 +6697,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.43,
-      7.38
+      47.432443,
+      7.381924
     ],
     "end_latlng": [
-      47.48,
-      7.46
+      47.478947,
+      7.459326
     ],
     "average_speed": 1.023,
     "max_speed": 5.42,
@@ -6075,12 +6758,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.373049054294825,
+      7.5416414346545935
     ],
     "end_latlng": [
-      47.39,
-      7.54
+      47.38696452230215,
+      7.537225931882858
     ],
     "average_speed": 0.946,
     "max_speed": 4.626,
@@ -6136,12 +6819,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.73
+      47.485161535441875,
+      7.730140378698707
     ],
     "end_latlng": [
-      47.52,
-      7.68
+      47.52148685976863,
+      7.679839069023728
     ],
     "average_speed": 1.213,
     "max_speed": 8.724,
@@ -6197,12 +6880,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.62
+      47.49431331641972,
+      7.619013525545597
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.49400989152491,
+      7.6186535228043795
     ],
     "average_speed": 1.133,
     "max_speed": 4.226,
@@ -6258,12 +6941,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.48259499669075,
+      7.732942616567016
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.46751008555293,
+      7.603299217298627
     ],
     "average_speed": 1.154,
     "max_speed": 4.428,
@@ -6319,12 +7002,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.46
+      47.48069817200303,
+      7.458939542993903
     ],
     "end_latlng": [
-      47.49,
-      7.5
+      47.488946886733174,
+      7.4991727620363235
     ],
     "average_speed": 0.957,
     "max_speed": 3.138,
@@ -6380,12 +7063,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.62
+      47.494141990318894,
+      7.618768019601703
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.49417543411255,
+      7.619360871613026
     ],
     "average_speed": 1.217,
     "max_speed": 8.744,
@@ -6441,12 +7124,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.49
+      47.492810273543,
+      7.485268274322152
     ],
     "end_latlng": [
-      47.48,
-      7.55
+      47.48372269794345,
+      7.546090297400951
     ],
     "average_speed": 1.147,
     "max_speed": 7.792,
@@ -6502,12 +7185,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.15,
-      7.27
+      47.15367939323187,
+      7.267854530364275
     ],
     "end_latlng": [
-      47.19,
-      7.39
+      47.19207001850009,
+      7.389275869354606
     ],
     "average_speed": 1.038,
     "max_speed": 4.174,
@@ -6563,12 +7246,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.54
+      47.386046536266804,
+      7.537046056240797
     ],
     "end_latlng": [
-      47.39,
-      7.54
+      47.38698941655457,
+      7.5373760517686605
     ],
     "average_speed": 1.004,
     "max_speed": 3.59,
@@ -6624,12 +7307,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.4671785812825,
+      7.602685494348407
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467267932370305,
+      7.602426828816533
     ],
     "average_speed": 0.939,
     "max_speed": 3.316,
@@ -6685,12 +7368,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.32,
-      7.8
+      47.315536,
+      7.798954
     ],
     "end_latlng": [
-      47.33,
-      7.84
+      47.333223,
+      7.844709
     ],
     "average_speed": 1.061,
     "max_speed": 3.62,
@@ -6746,12 +7429,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.43,
-      7.53
+      47.434861,
+      7.530524
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467657,
+      7.602297
     ],
     "average_speed": 1.14,
     "max_speed": 3.74,
@@ -6807,12 +7490,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.44104305282235,
+      7.591337068006396
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.46754579246044,
+      7.603199137374759
     ],
     "average_speed": 1.056,
     "max_speed": 6.768,
@@ -6869,12 +7552,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484419234097004,
+      7.731883646920323
     ],
     "end_latlng": [
-      47.44,
-      7.59
+      47.441297862678766,
+      7.591784745454788
     ],
     "average_speed": 5.165,
     "max_speed": 12.729,
@@ -6930,12 +7613,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.53
+      47.435038,
+      7.530388
     ],
     "end_latlng": [
-      47.5,
-      7.56
+      47.495144,
+      7.55501
     ],
     "average_speed": 1.381,
     "max_speed": 3.3,
@@ -6991,12 +7674,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.45,
-      7.6
+      47.453363947570324,
+      7.60424243286252
     ],
     "end_latlng": [
-      47.52,
-      7.62
+      47.518562246114016,
+      7.618805821985006
     ],
     "average_speed": 1.241,
     "max_speed": 4.474,
@@ -7052,12 +7735,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.469529788941145,
+      7.596731828525662
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494242656975985,
+      7.618714375421405
     ],
     "average_speed": 1.067,
     "max_speed": 8.013,
@@ -7113,12 +7796,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.44128487072885,
+      7.591055436059833
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.469261065125465,
+      7.596415579319
     ],
     "average_speed": 1.183,
     "max_speed": 4.338,
@@ -7174,12 +7857,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.48443214222789,
+      7.731411075219512
     ],
     "end_latlng": [
-      47.49,
-      7.61
+      47.48830332420766,
+      7.611174937337637
     ],
     "average_speed": 1.131,
     "max_speed": 4.898,
@@ -7235,12 +7918,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.43,
-      7.38
+      47.432481,
+      7.38137
     ],
     "end_latlng": [
-      47.48,
-      7.46
+      47.481107,
+      7.459065
     ],
     "average_speed": 1.123,
     "max_speed": 10.8,
@@ -7296,12 +7979,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.419273322448134,
+      7.502356795594096
     ],
     "end_latlng": [
-      47.49,
-      7.5
+      47.48895023949444,
+      7.499039322137833
     ],
     "average_speed": 1.302,
     "max_speed": 3.02,
@@ -7357,12 +8040,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.34,
-      7.21
+      47.335051,
+      7.209188
     ],
     "end_latlng": [
-      47.34,
-      7.21
+      47.335441,
+      7.208197
     ],
     "average_speed": 0.991,
     "max_speed": 5.8,
@@ -7418,12 +8101,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.52,
-      7.68
+      47.521366,
+      7.678794
     ],
     "end_latlng": [
-      47.52,
-      7.65
+      47.522984,
+      7.645378
     ],
     "average_speed": 1.017,
     "max_speed": 4.3,
@@ -7479,12 +8162,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.62
+      47.494284,
+      7.618928
     ],
     "end_latlng": [
-      47.53,
-      7.65
+      47.528478,
+      7.648302
     ],
     "average_speed": 1.021,
     "max_speed": 3.5,
@@ -7540,12 +8223,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561226,
+      7.640836
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.561523,
+      7.641109
     ],
     "average_speed": 1.328,
     "max_speed": 6.8,
@@ -7601,12 +8284,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.66
+      47.557226,
+      7.663934
     ],
     "end_latlng": [
-      47.56,
-      7.6
+      47.557057,
+      7.599142
     ],
     "average_speed": 1.88,
     "max_speed": 12,
@@ -7662,12 +8345,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561429,
+      7.641018
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.561434,
+      7.64103
     ],
     "average_speed": 1.236,
     "max_speed": 13,
@@ -7723,12 +8406,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467478,
+      7.603272
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494227,
+      7.618831
     ],
     "average_speed": 1.125,
     "max_speed": 6.2,
@@ -7784,12 +8467,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.65
+      47.558337,
+      7.649083
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.561451,
+      7.641145
     ],
     "average_speed": 1.292,
     "max_speed": 2.7,
@@ -7845,12 +8528,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.63
+      47.492566,
+      7.628176
     ],
     "end_latlng": [
-      47.49,
-      7.63
+      47.49257,
+      7.628124
     ],
     "average_speed": 0.906,
     "max_speed": 3.5,
@@ -7906,12 +8589,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.62
+      47.361957,
+      7.620414
     ],
     "end_latlng": [
-      47.4,
-      7.69
+      47.398126,
+      7.691698
     ],
     "average_speed": 1.094,
     "max_speed": 8,
@@ -7967,12 +8650,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      7.62
+      47.380774,
+      7.624354
     ],
     "end_latlng": [
-      47.38,
-      7.62
+      47.380751,
+      7.624291
     ],
     "average_speed": 0.765,
     "max_speed": 3.9,
@@ -8028,12 +8711,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.85
+      47.465831,
+      7.84801
     ],
     "end_latlng": [
-      47.46,
-      7.81
+      47.462306,
+      7.811563
     ],
     "average_speed": 1.175,
     "max_speed": 9.9,
@@ -8089,12 +8772,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.88
+      47.366954,
+      7.882611
     ],
     "end_latlng": [
-      47.35,
-      7.9
+      47.350258,
+      7.901651
     ],
     "average_speed": 0.816,
     "max_speed": 4.8,
@@ -8150,12 +8833,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.02,
-      8.86
+      46.024574,
+      8.856491
     ],
     "end_latlng": [
-      46.02,
-      8.86
+      46.024864,
+      8.856579
     ],
     "average_speed": 1.099,
     "max_speed": 3.1,
@@ -8211,12 +8894,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.05,
-      8.89
+      46.048887,
+      8.889999
     ],
     "end_latlng": [
-      46.05,
-      8.89
+      46.049519,
+      8.889419
     ],
     "average_speed": 0.928,
     "max_speed": 3.2,
@@ -8272,12 +8955,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.02,
-      8.86
+      46.024425,
+      8.856732
     ],
     "end_latlng": [
-      46.02,
-      8.86
+      46.02443,
+      8.856601
     ],
     "average_speed": 1.07,
     "max_speed": 5.9,
@@ -8333,12 +9016,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.02,
-      8.89
+      46.022442,
+      8.88588
     ],
     "end_latlng": [
-      46.02,
-      8.86
+      46.024432,
+      8.856848
     ],
     "average_speed": 1.109,
     "max_speed": 7.8,
@@ -8394,12 +9077,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.02,
-      8.86
+      46.024458,
+      8.85672
     ],
     "end_latlng": [
-      46.02,
-      8.86
+      46.024432,
+      8.856866
     ],
     "average_speed": 1.025,
     "max_speed": 4,
@@ -8455,12 +9138,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.02,
-      8.86
+      46.024493,
+      8.856508
     ],
     "end_latlng": [
-      46.03,
-      8.87
+      46.033813,
+      8.870955
     ],
     "average_speed": 0.985,
     "max_speed": 3.1,
@@ -8516,12 +9199,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46.02,
-      8.86
+      46.024485,
+      8.856613
     ],
     "end_latlng": [
-      46.02,
-      8.86
+      46.024492,
+      8.856574
     ],
     "average_speed": 1.249,
     "max_speed": 3.5,
@@ -8577,12 +9260,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.41,
-      7.99
+      47.412007,
+      7.990293
     ],
     "end_latlng": [
-      47.42,
-      8.14
+      47.417758,
+      8.135556
     ],
     "average_speed": 0.965,
     "max_speed": 5.2,
@@ -8638,12 +9321,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561339,
+      7.641202
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.561537,
+      7.641106
     ],
     "average_speed": 1.223,
     "max_speed": 4.9,
@@ -8699,12 +9382,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.52,
-      7.62
+      47.518966,
+      7.618748
     ],
     "end_latlng": [
-      47.49,
-      7.61
+      47.488401,
+      7.608894
     ],
     "average_speed": 1.26,
     "max_speed": 2.8,
@@ -8760,12 +9443,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.43,
-      7.38
+      47.432297,
+      7.381684
     ],
     "end_latlng": [
-      47.48,
-      7.46
+      47.481124,
+      7.459011
     ],
     "average_speed": 1.082,
     "max_speed": 11.8,
@@ -8821,12 +9504,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.34,
-      7.21
+      47.335188,
+      7.208976
     ],
     "end_latlng": [
-      47.34,
-      7.25
+      47.336246,
+      7.245482
     ],
     "average_speed": 0.94,
     "max_speed": 4.3,
@@ -8882,12 +9565,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467696,
+      7.603479
     ],
     "end_latlng": [
-      47.49,
-      7.61
+      47.488392,
+      7.6112
     ],
     "average_speed": 1.336,
     "max_speed": 4.1,
@@ -8943,12 +9626,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.468237,
+      7.603037
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494427,
+      7.61908
     ],
     "average_speed": 1.229,
     "max_speed": 6.4,
@@ -9004,12 +9687,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      7.75
+      47.383608,
+      7.748845
     ],
     "end_latlng": [
-      47.4,
-      7.69
+      47.397124,
+      7.691632
     ],
     "average_speed": 1.132,
     "max_speed": 3.8,
@@ -9065,12 +9748,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.54
+      47.390674,
+      7.538971
     ],
     "end_latlng": [
-      47.41,
-      7.54
+      47.408241,
+      7.54498
     ],
     "average_speed": 1.034,
     "max_speed": 4.5,
@@ -9126,12 +9809,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.419431,
+      7.502605
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.55017,
+      7.590569
     ],
     "average_speed": 1.409,
     "max_speed": 9.9,
@@ -9187,12 +9870,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.59
+      47.360139,
+      7.590941
     ],
     "end_latlng": [
-      47.37,
-      7.54
+      47.37318,
+      7.541781
     ],
     "average_speed": 1.11,
     "max_speed": 6.7,
@@ -9248,12 +9931,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.52,
-      7.68
+      47.520966,
+      7.679609
     ],
     "end_latlng": [
-      47.53,
-      7.65
+      47.526399,
+      7.64745
     ],
     "average_speed": 1.103,
     "max_speed": 10.3,
@@ -9309,12 +9992,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.59,
-      7.65
+      47.592605,
+      7.645369
     ],
     "end_latlng": [
-      47.59,
-      7.65
+      47.592666,
+      7.645341
     ],
     "average_speed": 1.5,
     "max_speed": 3.6,
@@ -9371,12 +10054,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568761,
+      7.586437
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568608,
+      7.586375
     ],
     "average_speed": 5.289,
     "max_speed": 15.5,
@@ -9432,12 +10115,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.61,
-      7.54
+      47.612872,
+      7.537024
     ],
     "end_latlng": [
-      47.59,
-      7.56
+      47.585514,
+      7.564158
     ],
     "average_speed": 1.295,
     "max_speed": 3.1,
@@ -9493,12 +10176,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.421963,
+      7.597533
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.4679,
+      7.603268
     ],
     "average_speed": 1.14,
     "max_speed": 7.3,
@@ -9554,12 +10237,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.59,
-      7.65
+      47.592407,
+      7.645069
     ],
     "end_latlng": [
-      47.59,
-      7.65
+      47.592637,
+      7.645227
     ],
     "average_speed": 1.472,
     "max_speed": 7.9,
@@ -9615,12 +10298,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.59,
-      7.65
+      47.592585,
+      7.645079
     ],
     "end_latlng": [
-      47.59,
-      7.65
+      47.592658,
+      7.645302
     ],
     "average_speed": 1.338,
     "max_speed": 3.5,
@@ -9676,12 +10359,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.574638,
+      7.601804
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.574681,
+      7.601755
     ],
     "average_speed": 1.393,
     "max_speed": 3.8,
@@ -9737,12 +10420,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.34,
-      7.5
+      47.343781,
+      7.49904
     ],
     "end_latlng": [
-      47.37,
-      7.54
+      47.373456,
+      7.542103
     ],
     "average_speed": 0.972,
     "max_speed": 3.5,
@@ -9798,12 +10481,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467506,
+      7.603885
     ],
     "end_latlng": [
-      47.51,
-      7.62
+      47.513315,
+      7.617983
     ],
     "average_speed": 1.083,
     "max_speed": 7.9,
@@ -9859,12 +10542,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.48457,
+      7.731087
     ],
     "end_latlng": [
-      47.52,
-      7.68
+      47.521502,
+      7.679758
     ],
     "average_speed": 1.252,
     "max_speed": 4,
@@ -9920,12 +10603,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467463,
+      7.603835
     ],
     "end_latlng": [
-      47.49,
-      7.61
+      47.488218,
+      7.611331
     ],
     "average_speed": 1.241,
     "max_speed": 3.6,
@@ -9981,12 +10664,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.422239,
+      7.598092
     ],
     "end_latlng": [
-      47.49,
-      7.61
+      47.488508,
+      7.610937
     ],
     "average_speed": 1.35,
     "max_speed": 7.3,
@@ -10042,12 +10725,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467623,
+      7.603893
     ],
     "end_latlng": [
-      47.52,
-      7.68
+      47.521512,
+      7.679883
     ],
     "average_speed": 1.327,
     "max_speed": 7.4,
@@ -10103,12 +10786,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372827,
+      7.54166
     ],
     "end_latlng": [
-      47.42,
-      7.54
+      47.416456,
+      7.543798
     ],
     "average_speed": 1.16,
     "max_speed": 6.7,
@@ -10164,12 +10847,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484474,
+      7.731096
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494519,
+      7.619152
     ],
     "average_speed": 1.11,
     "max_speed": 3.5,
@@ -10225,12 +10908,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.4,
-      7.69
+      47.397162,
+      7.692002
     ],
     "end_latlng": [
-      47.38,
-      7.75
+      47.383596,
+      7.748787
     ],
     "average_speed": 1.007,
     "max_speed": 3.7,
@@ -10286,12 +10969,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.61
+      47.468349,
+      7.607292
     ],
     "end_latlng": [
-      47.52,
-      7.68
+      47.52155,
+      7.679421
     ],
     "average_speed": 1.305,
     "max_speed": 10,
@@ -10347,12 +11030,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467443,
+      7.603525
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494262,
+      7.618747
     ],
     "average_speed": 1.243,
     "max_speed": 3.7,
@@ -10408,12 +11091,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.59
+      47.360314,
+      7.590424
     ],
     "end_latlng": [
-      47.4,
-      7.65
+      47.397726,
+      7.652799
     ],
     "average_speed": 1.007,
     "max_speed": 5.2,
@@ -10469,12 +11152,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484466,
+      7.731823
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467472,
+      7.603335
     ],
     "average_speed": 1.117,
     "max_speed": 7.5,
@@ -10530,12 +11213,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.422112,
+      7.597977
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467615,
+      7.603208
     ],
     "average_speed": 1.417,
     "max_speed": 5.6,
@@ -10591,12 +11274,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.71
+      47.547402,
+      7.705922
     ],
     "end_latlng": [
-      47.56,
-      7.63
+      47.562575,
+      7.633852
     ],
     "average_speed": 1.407,
     "max_speed": 3.9,
@@ -10652,12 +11335,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484228,
+      7.731684
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.4943,
+      7.618647
     ],
     "average_speed": 1.395,
     "max_speed": 5.3,
@@ -10713,12 +11396,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467569,
+      7.603414
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467524,
+      7.60321
     ],
     "average_speed": 1.367,
     "max_speed": 3.4,
@@ -10774,12 +11457,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.422052,
+      7.598021
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494354,
+      7.618727
     ],
     "average_speed": 1.405,
     "max_speed": 8.5,
@@ -10835,12 +11518,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467475,
+      7.603485
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467524,
+      7.603672
     ],
     "average_speed": 1.084,
     "max_speed": 3.5,
@@ -10896,12 +11579,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484416,
+      7.731116
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494013,
+      7.618649
     ],
     "average_speed": 1.207,
     "max_speed": 5.3,
@@ -10957,12 +11640,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.46769,
+      7.603343
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467485,
+      7.603243
     ],
     "average_speed": 1.259,
     "max_speed": 3.6,
@@ -11018,12 +11701,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.34,
-      7.21
+      47.3352,
+      7.209089
     ],
     "end_latlng": [
-      47.34,
-      7.25
+      47.336497,
+      7.247292
     ],
     "average_speed": 1.004,
     "max_speed": 11.6,
@@ -11079,12 +11762,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.422212,
+      7.598187
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.467578,
+      7.603083
     ],
     "average_speed": 1.359,
     "max_speed": 4.1,
@@ -11140,12 +11823,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.54
+      47.550454,
+      7.536281
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.549866,
+      7.535971
     ],
     "average_speed": 1.338,
     "max_speed": 3.2,
@@ -11201,12 +11884,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.79
+      47.55159,
+      7.792116
     ],
     "end_latlng": [
-      47.55,
-      7.63
+      47.547727,
+      7.634641
     ],
     "average_speed": 1.169,
     "max_speed": 7,
@@ -11262,12 +11945,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.574502,
+      7.601721
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.574636,
+      7.601811
     ],
     "average_speed": 1.173,
     "max_speed": 4.2,
@@ -11323,12 +12006,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.54
+      47.550559,
+      7.536325
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.550196,
+      7.536021
     ],
     "average_speed": 1.46,
     "max_speed": 4.5,
@@ -11384,12 +12067,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.422047,
+      7.59769
     ],
     "end_latlng": [
-      47.51,
-      7.62
+      47.511921,
+      7.61936
     ],
     "average_speed": 1.428,
     "max_speed": 8.1,
@@ -11445,12 +12128,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484067,
+      7.731133
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494227,
+      7.618705
     ],
     "average_speed": 1.152,
     "max_speed": 3.6,
@@ -11506,12 +12189,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484033,
+      7.731101
     ],
     "end_latlng": [
-      47.51,
-      7.62
+      47.511983,
+      7.619346
     ],
     "average_speed": 1.349,
     "max_speed": 8.9,
@@ -11567,12 +12250,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484462,
+      7.730949
     ],
     "end_latlng": [
-      47.51,
-      7.62
+      47.512083,
+      7.619366
     ],
     "average_speed": 1.432,
     "max_speed": 5,
@@ -11628,12 +12311,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484134,
+      7.731981
     ],
     "end_latlng": [
-      47.51,
-      7.62
+      47.511905,
+      7.619446
     ],
     "average_speed": 1.406,
     "max_speed": 4.9,
@@ -11689,12 +12372,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.347255,
+      7.769392
     ],
     "end_latlng": [
-      47.34,
-      7.83
+      47.344057,
+      7.827637
     ],
     "average_speed": 1.377,
     "max_speed": 4,
@@ -11750,12 +12433,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.29,
-      7.71
+      47.285438,
+      7.708881
     ],
     "end_latlng": [
-      47.35,
-      7.82
+      47.351836,
+      7.817583
     ],
     "average_speed": 0.984,
     "max_speed": 5.3,
@@ -11811,12 +12494,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484805,
+      7.731088
     ],
     "end_latlng": [
-      47.49,
-      7.61
+      47.488435,
+      7.611365
     ],
     "average_speed": 1.504,
     "max_speed": 3.9,
@@ -11872,12 +12555,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.4,
-      7.62
+      47.396473,
+      7.615201
     ],
     "end_latlng": [
-      47.44,
-      7.59
+      47.441287,
+      7.591297
     ],
     "average_speed": 1.369,
     "max_speed": 6.7,
@@ -11933,12 +12616,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.347259,
+      7.768913
     ],
     "end_latlng": [
-      47.33,
-      7.84
+      47.330616,
+      7.843943
     ],
     "average_speed": 1.198,
     "max_speed": 12.2,
@@ -11994,12 +12677,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.54
+      47.550228,
+      7.536068
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.549934,
+      7.535987
     ],
     "average_speed": 1.431,
     "max_speed": 4.2,
@@ -12055,12 +12738,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.34969,
+      7.767292
     ],
     "end_latlng": [
-      47.35,
-      7.77
+      47.349039,
+      7.76842
     ],
     "average_speed": 1.002,
     "max_speed": 4,
@@ -12116,12 +12799,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.33,
-      7.84
+      47.330487,
+      7.843873
     ],
     "end_latlng": [
-      47.35,
-      7.91
+      47.352031,
+      7.90707
     ],
     "average_speed": 1.117,
     "max_speed": 3.3,
@@ -12177,12 +12860,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.54
+      47.550152,
+      7.536079
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.549984,
+      7.536028
     ],
     "average_speed": 1.433,
     "max_speed": 4.5,
@@ -12238,12 +12921,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.54
+      47.550585,
+      7.536888
     ],
     "end_latlng": [
-      47.55,
-      7.54
+      47.550091,
+      7.535882
     ],
     "average_speed": 1.274,
     "max_speed": 8.3,
@@ -12299,12 +12982,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      7.5
+      47.381617,
+      7.50189
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.419454,
+      7.503192
     ],
     "average_speed": 1.069,
     "max_speed": 7,
@@ -12360,12 +13043,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.4,
-      7.44
+      47.39875,
+      7.438375
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.41962,
+      7.502853
     ],
     "average_speed": 1.266,
     "max_speed": 3.6,
@@ -12421,12 +13104,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.29,
-      7.45
+      47.285037,
+      7.451385
     ],
     "end_latlng": [
-      47.35,
-      7.48
+      47.346472,
+      7.476109
     ],
     "average_speed": 1.245,
     "max_speed": 3.6,
@@ -12482,12 +13165,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.34,
-      7.37
+      47.335081,
+      7.373045
     ],
     "end_latlng": [
-      47.35,
-      7.46
+      47.348466,
+      7.456918
     ],
     "average_speed": 1.284,
     "max_speed": 8.1,
@@ -12543,12 +13226,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.38
+      47.280542,
+      7.380652
     ],
     "end_latlng": [
-      47.24,
-      7.28
+      47.238779,
+      7.275947
     ],
     "average_speed": 1.186,
     "max_speed": 4.2,
@@ -12604,12 +13287,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.47
+      47.265287,
+      7.465469
     ],
     "end_latlng": [
-      47.26,
-      7.66
+      47.259779,
+      7.661118
     ],
     "average_speed": 1.2,
     "max_speed": 3.6,
@@ -12665,12 +13348,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.59
+      47.360081,
+      7.590954
     ],
     "end_latlng": [
-      47.27,
-      7.47
+      47.265596,
+      7.465112
     ],
     "average_speed": 1.09,
     "max_speed": 4.5,
@@ -12726,12 +13409,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.371158,
+      7.542246
     ],
     "end_latlng": [
-      47.37,
-      7.54
+      47.371573,
+      7.542119
     ],
     "average_speed": 0.989,
     "max_speed": 5.2,
@@ -12787,12 +13470,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372822,
+      7.541785
     ],
     "end_latlng": [
-      47.39,
-      7.59
+      47.388038,
+      7.58944
     ],
     "average_speed": 1.085,
     "max_speed": 3.7,
@@ -12848,12 +13531,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.29,
-      7.71
+      47.285338,
+      7.709319
     ],
     "end_latlng": [
-      47.25,
-      7.61
+      47.246627,
+      7.614605
     ],
     "average_speed": 1.015,
     "max_speed": 10.2,
@@ -12909,12 +13592,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.76
+      47.359079,
+      7.761096
     ],
     "end_latlng": [
-      47.33,
-      7.84
+      47.330594,
+      7.843956
     ],
     "average_speed": 1.109,
     "max_speed": 3.9,
@@ -12970,12 +13653,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.77
+      47.348948,
+      7.768656
     ],
     "end_latlng": [
-      47.33,
-      7.84
+      47.330489,
+      7.843885
     ],
     "average_speed": 1.166,
     "max_speed": 6.3,
@@ -13031,12 +13714,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.61
+      47.391353,
+      7.613084
     ],
     "end_latlng": [
-      47.4,
-      7.65
+      47.398867,
+      7.653443
     ],
     "average_speed": 1.151,
     "max_speed": 3.6,
@@ -13092,12 +13775,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.6
+      47.421961,
+      7.597651
     ],
     "end_latlng": [
-      47.46,
-      7.69
+      47.460871,
+      7.689816
     ],
     "average_speed": 1.244,
     "max_speed": 6.5,
@@ -13153,12 +13836,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.420276,
+      7.502023
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.419445,
+      7.502832
     ],
     "average_speed": 1.294,
     "max_speed": 4.2,
@@ -13214,12 +13897,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484813,
+      7.733399
     ],
     "end_latlng": [
-      47.46,
-      7.81
+      47.462808,
+      7.811769
     ],
     "average_speed": 1.164,
     "max_speed": 3.8,
@@ -13275,12 +13958,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.440945,
+      7.590209
     ],
     "end_latlng": [
-      47.4,
-      7.61
+      47.403589,
+      7.60564
     ],
     "average_speed": 1.29,
     "max_speed": 7.8,
@@ -13336,12 +14019,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.441315,
+      7.59109
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.469442,
+      7.596566
     ],
     "average_speed": 1.344,
     "max_speed": 5.3,
@@ -13397,12 +14080,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.75
+      47.386076,
+      7.74901
     ],
     "end_latlng": [
-      47.35,
-      7.9
+      47.353746,
+      7.903048
     ],
     "average_speed": 1.09,
     "max_speed": 4.2,
@@ -13458,12 +14141,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.17,
-      7.26
+      47.169199,
+      7.258479
     ],
     "end_latlng": [
-      47.19,
-      7.4
+      47.189039,
+      7.398377
     ],
     "average_speed": 1.16,
     "max_speed": 3.3,
@@ -13519,12 +14202,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.441508,
+      7.592492
     ],
     "end_latlng": [
-      47.48,
-      7.73
+      47.484441,
+      7.731025
     ],
     "average_speed": 1.459,
     "max_speed": 14.1,
@@ -13580,12 +14263,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.4,
-      7.43
+      47.401433,
+      7.427944
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.419627,
+      7.50285
     ],
     "average_speed": 1.391,
     "max_speed": 4.6,
@@ -13641,12 +14324,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.85
+      47.46637,
+      7.847886
     ],
     "end_latlng": [
-      47.48,
-      7.73
+      47.484461,
+      7.732889
     ],
     "average_speed": 1.277,
     "max_speed": 9.7,
@@ -13702,12 +14385,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.13,
-      7.24
+      47.130949,
+      7.241178
     ],
     "end_latlng": [
-      47.09,
-      7.16
+      47.093599,
+      7.155522
     ],
     "average_speed": 1.371,
     "max_speed": 7.4,
@@ -13763,12 +14446,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.441451,
+      7.591926
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.493878,
+      7.618904
     ],
     "average_speed": 1.448,
     "max_speed": 5.7,
@@ -13824,12 +14507,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.38
+      47.280268,
+      7.381461
     ],
     "end_latlng": [
-      47.29,
-      7.45
+      47.285432,
+      7.451057
     ],
     "average_speed": 1.129,
     "max_speed": 7.1,
@@ -13885,12 +14568,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484197,
+      7.732028
     ],
     "end_latlng": [
-      47.5,
-      7.72
+      47.501652,
+      7.7193
     ],
     "average_speed": 1.255,
     "max_speed": 4.5,
@@ -13946,12 +14629,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484298,
+      7.7321
     ],
     "end_latlng": [
-      47.55,
-      7.79
+      47.55092,
+      7.792732
     ],
     "average_speed": 1.43,
     "max_speed": 3.4,
@@ -14007,12 +14690,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.59
+      47.441195,
+      7.590773
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.548614,
+      7.591171
     ],
     "average_speed": 1.535,
     "max_speed": 6,
@@ -14068,12 +14751,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.15,
-      7.18
+      47.153394,
+      7.178271
     ],
     "end_latlng": [
-      47.11,
-      7.08
+      47.111908,
+      7.079177
     ],
     "average_speed": 1.052,
     "max_speed": 5.8,
@@ -14129,12 +14812,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.35
+      47.273158,
+      7.347287
     ],
     "end_latlng": [
-      47.24,
-      7.34
+      47.24041,
+      7.342253
     ],
     "average_speed": 1.219,
     "max_speed": 9,
@@ -14190,12 +14873,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.62
+      47.494099,
+      7.618742
     ],
     "end_latlng": [
-      47.51,
-      7.62
+      47.512156,
+      7.6194
     ],
     "average_speed": 1.326,
     "max_speed": 3.6,
@@ -14251,12 +14934,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484832,
+      7.731463
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.494145,
+      7.618777
     ],
     "average_speed": 1.308,
     "max_speed": 5.2,
@@ -14312,12 +14995,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.17
+      47.367644,
+      7.165688
     ],
     "end_latlng": [
-      47.42,
-      7.08
+      47.421354,
+      7.080577
     ],
     "average_speed": 1.17,
     "max_speed": 4.9,
@@ -14373,12 +15056,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372635,
+      7.541871
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.391544,
+      7.599541
     ],
     "average_speed": 1.192,
     "max_speed": 10.1,
@@ -14434,12 +15117,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372862,
+      7.541788
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.391593,
+      7.599403
     ],
     "average_speed": 1.277,
     "max_speed": 5,
@@ -14495,12 +15178,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.422016,
+      7.500534
     ],
     "end_latlng": [
-      47.44,
-      7.53
+      47.435037,
+      7.530438
     ],
     "average_speed": 1.259,
     "max_speed": 4.4,
@@ -14556,12 +15239,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.6
+      47.575344,
+      7.601175
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.569241,
+      7.589268
     ],
     "average_speed": 1.342,
     "max_speed": 7.2,
@@ -14617,12 +15300,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.73
+      47.485234,
+      7.729746
     ],
     "end_latlng": [
-      47.53,
-      7.65
+      47.52638,
+      7.647692
     ],
     "average_speed": 1.215,
     "max_speed": 4.1,
@@ -14678,12 +15361,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484774,
+      7.731028
     ],
     "end_latlng": [
-      47.52,
-      7.69
+      47.52083,
+      7.694294
     ],
     "average_speed": 1.315,
     "max_speed": 3.2,
@@ -14739,12 +15422,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.34
+      47.439923,
+      7.339506
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.422259,
+      7.501425
     ],
     "average_speed": 1.071,
     "max_speed": 8.6,
@@ -14800,12 +15483,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372795,
+      7.541654
     ],
     "end_latlng": [
-      47.39,
-      7.62
+      47.392404,
+      7.618338
     ],
     "average_speed": 1.226,
     "max_speed": 4.4,
@@ -14861,12 +15544,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.34
+      47.439987,
+      7.340031
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.550161,
+      7.590696
     ],
     "average_speed": 1.445,
     "max_speed": 8.4,
@@ -14922,12 +15605,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.73
+      47.484457,
+      7.731355
     ],
     "end_latlng": [
-      47.49,
-      7.62
+      47.49442,
+      7.618701
     ],
     "average_speed": 1.225,
     "max_speed": 3.5,
@@ -14983,12 +15666,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.420268,
+      7.501554
     ],
     "end_latlng": [
-      47.47,
-      7.6
+      47.46925,
+      7.596431
     ],
     "average_speed": 1.349,
     "max_speed": 3.8,
@@ -15044,12 +15727,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.43,
-      7.42
+      47.425382,
+      7.418008
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.550135,
+      7.590572
     ],
     "average_speed": 1.372,
     "max_speed": 11,
@@ -15105,12 +15788,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      8.05
+      47.390491,
+      8.052325
     ],
     "end_latlng": [
-      47.35,
-      7.91
+      47.351273,
+      7.908297
     ],
     "average_speed": 1.021,
     "max_speed": 10.4,
@@ -15166,12 +15849,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.33
+      47.439881,
+      7.327632
     ],
     "end_latlng": [
-      47.43,
-      7.42
+      47.425215,
+      7.417941
     ],
     "average_speed": 1.254,
     "max_speed": 4.4,
@@ -15227,12 +15910,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.47,
-      7.6
+      47.467576,
+      7.602962
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.545625,
+      7.587055
     ],
     "average_speed": 1.522,
     "max_speed": 3.4,
@@ -15288,12 +15971,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.24
+      47.41755,
+      7.243404
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.36247,
+      7.350661
     ],
     "average_speed": 1.158,
     "max_speed": 6,
@@ -15349,12 +16032,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.2
+      47.422684,
+      7.2039
     ],
     "end_latlng": [
-      47.43,
-      7.41
+      47.427182,
+      7.412671
     ],
     "average_speed": 1.416,
     "max_speed": 4.9,
@@ -15410,12 +16093,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.53,
-      7.63
+      47.532635,
+      7.629803
     ],
     "end_latlng": [
-      47.5,
-      7.72
+      47.502016,
+      7.718556
     ],
     "average_speed": 1.24,
     "max_speed": 3.9,
@@ -15471,12 +16154,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.57473,
+      7.601643
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.574543,
+      7.601994
     ],
     "average_speed": 1.492,
     "max_speed": 3.2,
@@ -15532,12 +16215,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      7.33
+      47.440093,
+      7.327716
     ],
     "end_latlng": [
-      47.44,
-      7.33
+      47.439947,
+      7.327571
     ],
     "average_speed": 1.174,
     "max_speed": 9.2,
@@ -15593,12 +16276,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      8.05
+      47.391686,
+      8.051543
     ],
     "end_latlng": [
-      47.39,
-      8.17
+      47.390314,
+      8.172285
     ],
     "average_speed": 1.33,
     "max_speed": 4,
@@ -15654,12 +16337,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.46,
-      8
+      47.461823,
+      7.998213
     ],
     "end_latlng": [
-      47.46,
-      8
+      47.461407,
+      7.998709
     ],
     "average_speed": 1.091,
     "max_speed": 10.7,
@@ -15715,12 +16398,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.41962,
+      7.502685
     ],
     "end_latlng": [
-      47.48,
-      7.51
+      47.476904,
+      7.512452
     ],
     "average_speed": 1.161,
     "max_speed": 6.3,
@@ -15776,12 +16459,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.42,
-      7.5
+      47.42025,
+      7.502136
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.545704,
+      7.587324
     ],
     "average_speed": 1.551,
     "max_speed": 14,
@@ -15837,12 +16520,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.98
+      47.480969,
+      7.978082
     ],
     "end_latlng": [
-      47.39,
-      8.05
+      47.391103,
+      8.051833
     ],
     "average_speed": 1.391,
     "max_speed": 7.9,
@@ -15898,12 +16581,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.47
+      47.265186,
+      7.465514
     ],
     "end_latlng": [
-      47.29,
-      7.45
+      47.285714,
+      7.450392
     ],
     "average_speed": 1.294,
     "max_speed": 3.7,
@@ -15959,12 +16642,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.51,
-      8.01
+      47.507143,
+      8.013112
     ],
     "end_latlng": [
-      47.56,
-      8.06
+      47.559596,
+      8.061317
     ],
     "average_speed": 1.232,
     "max_speed": 4.3,
@@ -16020,12 +16703,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.35
+      47.362242,
+      7.349389
     ],
     "end_latlng": [
-      47.38,
-      7.47
+      47.382041,
+      7.472278
     ],
     "average_speed": 1.106,
     "max_speed": 10.8,
@@ -16081,12 +16764,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372848,
+      7.541728
     ],
     "end_latlng": [
-      47.39,
-      7.59
+      47.388023,
+      7.589492
     ],
     "average_speed": 1.179,
     "max_speed": 6.8,
@@ -16142,12 +16825,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.51,
-      8.01
+      47.507051,
+      8.013016
     ],
     "end_latlng": [
-      47.46,
-      7.91
+      47.461314,
+      7.914608
     ],
     "average_speed": 1.311,
     "max_speed": 3.6,
@@ -16203,12 +16886,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.33,
-      7.48
+      47.32793,
+      7.475847
     ],
     "end_latlng": [
-      47.34,
-      7.5
+      47.343809,
+      7.49944
     ],
     "average_speed": 1.272,
     "max_speed": 4.8,
@@ -16264,12 +16947,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.33,
-      7.48
+      47.328303,
+      7.475634
     ],
     "end_latlng": [
-      47.34,
-      7.5
+      47.343747,
+      7.498963
     ],
     "average_speed": 1.139,
     "max_speed": 6,
@@ -16325,12 +17008,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.38
+      47.280782,
+      7.380879
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.279826,
+      7.381739
     ],
     "average_speed": 1.297,
     "max_speed": 10.3,
@@ -16386,12 +17069,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      7.75
+      47.386088,
+      7.749055
     ],
     "end_latlng": [
-      47.39,
-      7.68
+      47.390224,
+      7.675764
     ],
     "average_speed": 1.185,
     "max_speed": 4.3,
@@ -16447,12 +17130,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.34
+      47.273957,
+      7.344311
     ],
     "end_latlng": [
-      47.27,
-      7.36
+      47.272248,
+      7.356771
     ],
     "average_speed": 1.255,
     "max_speed": 3.9,
@@ -16508,12 +17191,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.66
+      47.359603,
+      7.65834
     ],
     "end_latlng": [
-      47.27,
-      7.47
+      47.265634,
+      7.465132
     ],
     "average_speed": 1.463,
     "max_speed": 4.1,
@@ -16569,12 +17252,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372781,
+      7.541808
     ],
     "end_latlng": [
-      47.39,
-      7.54
+      47.389716,
+      7.538907
     ],
     "average_speed": 1.101,
     "max_speed": 3,
@@ -16630,12 +17313,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.47
+      47.265193,
+      7.465497
     ],
     "end_latlng": [
-      47.34,
-      7.5
+      47.343792,
+      7.499626
     ],
     "average_speed": 1.253,
     "max_speed": 8.1,
@@ -16691,12 +17374,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561537,
+      7.640777
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.561549,
+      7.641055
     ],
     "average_speed": 1.192,
     "max_speed": 4.9,
@@ -16752,12 +17435,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561131,
+      7.640825
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.56143,
+      7.641112
     ],
     "average_speed": 1.366,
     "max_speed": 4.3,
@@ -16813,12 +17496,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.62
+      47.361934,
+      7.620536
     ],
     "end_latlng": [
-      47.34,
-      7.5
+      47.343746,
+      7.498994
     ],
     "average_speed": 1.317,
     "max_speed": 3.5,
@@ -16874,12 +17557,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.43,
-      7.42
+      47.425245,
+      7.418556
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.362299,
+      7.350163
     ],
     "average_speed": 1.305,
     "max_speed": 3.4,
@@ -16935,12 +17618,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.44,
-      8.03
+      47.436805,
+      8.029878
     ],
     "end_latlng": [
-      47.35,
-      7.91
+      47.351899,
+      7.907405
     ],
     "average_speed": 1.118,
     "max_speed": 3.5,
@@ -16996,12 +17679,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.59
+      47.360309,
+      7.59051
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.391609,
+      7.59951
     ],
     "average_speed": 1.211,
     "max_speed": 3.1,
@@ -17057,12 +17740,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.24,
-      7.31
+      47.239253,
+      7.305589
     ],
     "end_latlng": [
-      47.27,
-      7.47
+      47.265605,
+      7.465127
     ],
     "average_speed": 1.397,
     "max_speed": 3.6,
@@ -17118,12 +17801,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.19,
-      7.23
+      47.189539,
+      7.225541
     ],
     "end_latlng": [
-      47.22,
-      7.38
+      47.221354,
+      7.380996
     ],
     "average_speed": 1.109,
     "max_speed": 2.7,
@@ -17179,12 +17862,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.29,
-      7.39
+      47.285359,
+      7.387037
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.280536,
+      7.381323
     ],
     "average_speed": 1.161,
     "max_speed": 11.9,
@@ -17240,12 +17923,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.36,
-      7.51
+      47.360761,
+      7.507371
     ],
     "end_latlng": [
-      47.38,
-      7.54
+      47.377323,
+      7.540696
     ],
     "average_speed": 1.337,
     "max_speed": 15.6,
@@ -17301,12 +17984,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.35,
-      7.42
+      47.348994,
+      7.417232
     ],
     "end_latlng": [
-      47.37,
-      7.54
+      47.373299,
+      7.541762
     ],
     "average_speed": 1.252,
     "max_speed": 3.8,
@@ -17362,12 +18045,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.3,
-      7.27
+      47.303321,
+      7.270593
     ],
     "end_latlng": [
-      47.3,
-      7.27
+      47.303435,
+      7.270891
     ],
     "average_speed": 1.132,
     "max_speed": 5.3,
@@ -17423,12 +18106,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.34
+      47.274358,
+      7.343239
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.279849,
+      7.37762
     ],
     "average_speed": 1.365,
     "max_speed": 3.3,
@@ -17484,12 +18167,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.373148,
+      7.54175
     ],
     "end_latlng": [
-      47.38,
-      7.47
+      47.381907,
+      7.472456
     ],
     "average_speed": 1.287,
     "max_speed": 4.4,
@@ -17545,12 +18228,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.28,
-      7.38
+      47.281016,
+      7.381107
     ],
     "end_latlng": [
-      47.33,
-      7.34
+      47.329443,
+      7.344399
     ],
     "average_speed": 1.326,
     "max_speed": 9.8,
@@ -17606,12 +18289,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.33,
-      7.34
+      47.327729,
+      7.342586
     ],
     "end_latlng": [
-      47.33,
-      7.22
+      47.32807,
+      7.222599
     ],
     "average_speed": 1.367,
     "max_speed": 7,
@@ -17667,12 +18350,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.54
+      47.372546,
+      7.5418
     ],
     "end_latlng": [
-      47.39,
-      7.6
+      47.391591,
+      7.599488
     ],
     "average_speed": 1.247,
     "max_speed": 3.7,
@@ -17728,12 +18411,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.27,
-      7.47
+      47.265439,
+      7.465189
     ],
     "end_latlng": [
-      47.28,
-      7.38
+      47.280658,
+      7.380831
     ],
     "average_speed": 1.166,
     "max_speed": 4,
@@ -17789,12 +18472,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.34
+      47.365419,
+      7.34411
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.362788,
+      7.349656
     ],
     "average_speed": 1.315,
     "max_speed": 3.4,
@@ -17850,12 +18533,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      7.75
+      47.384226,
+      7.749232
     ],
     "end_latlng": [
-      47.35,
-      7.9
+      47.35356,
+      7.904257
     ],
     "average_speed": 1.273,
     "max_speed": 4.6,
@@ -17911,12 +18594,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      7.35
+      47.36509,
+      7.349044
     ],
     "end_latlng": [
-      47.38,
-      7.54
+      47.377084,
+      7.54075
     ],
     "average_speed": 1.358,
     "max_speed": 14.9,
@@ -17973,12 +18656,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.39,
-      8.05
+      47.392871,
+      8.045958
     ],
     "end_latlng": [
-      47.38,
-      8.07
+      47.381316,
+      8.068923
     ],
     "average_speed": 4.515,
     "max_speed": 12.9,
@@ -18035,12 +18718,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.95
+      47.546729,
+      7.95256
     ],
     "end_latlng": [
-      47.39,
-      8.04
+      47.393411,
+      8.04348
     ],
     "average_speed": 3.485,
     "max_speed": 12.1,
@@ -18097,12 +18780,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.6
+      47.578369,
+      7.596093
     ],
     "end_latlng": [
-      47.59,
-      7.6
+      47.589943,
+      7.602986
     ],
     "average_speed": 5.476,
     "max_speed": 18.1,
@@ -18159,12 +18842,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.61
+      47.575032,
+      7.612637
     ],
     "end_latlng": [
-      47.58,
-      7.61
+      47.575153,
+      7.613045
     ],
     "average_speed": 4.782,
     "max_speed": 12.6,
@@ -18221,12 +18904,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.13,
-      7.24
+      47.131515,
+      7.24193
     ],
     "end_latlng": [
-      47.39,
-      8.05
+      47.390681,
+      8.052135
     ],
     "average_speed": 4.516,
     "max_speed": 13.7,
@@ -18283,12 +18966,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.37,
-      8.08
+      47.374625,
+      8.07743
     ],
     "end_latlng": [
-      47.39,
-      8.17
+      47.390866,
+      8.170767
     ],
     "average_speed": 3.981,
     "max_speed": 11.6,
@@ -18345,12 +19028,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.569577,
+      7.603547
     ],
     "end_latlng": [
-      47.56,
-      7.64
+      47.559355,
+      7.635868
     ],
     "average_speed": 5.626,
     "max_speed": 12.4,
@@ -18406,12 +19089,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.64
+      47.551132,
+      7.641361
     ],
     "end_latlng": [
-      47.55,
-      7.64
+      47.551138,
+      7.641318
     ],
     "average_speed": 1.376,
     "max_speed": 2.9,
@@ -18468,12 +19151,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568732,
+      7.586451
     ],
     "end_latlng": [
-      47.55,
-      7.95
+      47.551378,
+      7.948625
     ],
     "average_speed": 4.214,
     "max_speed": 28.8,
@@ -18529,12 +19212,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.64
+      47.561506,
+      7.641142
     ],
     "end_latlng": [
-      47.55,
-      7.68
+      47.55223,
+      7.679713
     ],
     "average_speed": 1.055,
     "max_speed": 5.6,
@@ -18591,12 +19274,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.6
+      47.554572,
+      7.596599
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568755,
+      7.586403
     ],
     "average_speed": 5.108,
     "max_speed": 23.1,
@@ -18653,12 +19336,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.58
+      47.546921,
+      7.584216
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.362424,
+      7.350356
     ],
     "average_speed": 5.463,
     "max_speed": 27.5,
@@ -18715,12 +19398,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.6
+      47.561995,
+      7.602344
     ],
     "end_latlng": [
-      47.56,
-      7.6
+      47.561916,
+      7.602333
     ],
     "average_speed": 1.647,
     "max_speed": 2.7,
@@ -18777,12 +19460,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.561731,
+      7.578459
     ],
     "end_latlng": [
-      47.56,
-      7.58
+      47.561795,
+      7.578716
     ],
     "average_speed": 4.476,
     "max_speed": 21.7,
@@ -18821,7 +19504,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 20,
+    "achievement_count": 21,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -18839,12 +19522,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568927,
+      7.586678
     ],
     "end_latlng": [
-      47.56,
-      7.58
+      47.561714,
+      7.57867
     ],
     "average_speed": 4.73,
     "max_speed": 19.3,
@@ -18857,7 +19540,7 @@
     "upload_id_str": "3192941663",
     "external_id": null,
     "from_accepted_tag": false,
-    "pr_count": 6,
+    "pr_count": 7,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -18901,12 +19584,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.561857,
+      7.578682
     ],
     "end_latlng": [
-      47.56,
-      7.58
+      47.561488,
+      7.578387
     ],
     "average_speed": 4.379,
     "max_speed": 11.4,
@@ -18963,12 +19646,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568821,
+      7.586443
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568764,
+      7.586414
     ],
     "average_speed": 8.697,
     "max_speed": 29.2,
@@ -19025,12 +19708,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568764,
+      7.586488
     ],
     "end_latlng": [
-      47.53,
-      7.64
+      47.534362,
+      7.642494
     ],
     "average_speed": 5.784,
     "max_speed": 20.4,
@@ -19087,12 +19770,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.53,
-      7.64
+      47.533928,
+      7.643398
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568791,
+      7.586517
     ],
     "average_speed": 6.574,
     "max_speed": 14,
@@ -19149,12 +19832,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568781,
+      7.586382
     ],
     "end_latlng": [
-      47.53,
-      7.64
+      47.533901,
+      7.64345
     ],
     "average_speed": 6.638,
     "max_speed": 13,
@@ -19211,12 +19894,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.561854,
+      7.578528
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568852,
+      7.590409
     ],
     "average_speed": 5.52,
     "max_speed": 9.9,
@@ -19273,12 +19956,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568756,
+      7.586457
     ],
     "end_latlng": [
-      47.38,
-      8.07
+      47.38132,
+      8.068457
     ],
     "average_speed": 5.201,
     "max_speed": 15.4,
@@ -19335,12 +20018,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568662,
+      7.586667
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564681,
+      7.591377
     ],
     "average_speed": 5.792,
     "max_speed": 14.4,
@@ -19397,12 +20080,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.569304,
+      7.590229
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568773,
+      7.586402
     ],
     "average_speed": 7.386,
     "max_speed": 13,
@@ -19441,7 +20124,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 11,
+    "achievement_count": 12,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -19459,12 +20142,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      8.07
+      47.381292,
+      8.068953
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568735,
+      7.586391
     ],
     "average_speed": 5.371,
     "max_speed": 14.5,
@@ -19521,12 +20204,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.62,
-      8.69
+      47.62359,
+      8.692102
     ],
     "end_latlng": [
-      47.62,
-      8.69
+      47.62354,
+      8.692162
     ],
     "average_speed": 4.02,
     "max_speed": 12.5,
@@ -19583,12 +20266,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      48.07,
-      7.34
+      48.068399,
+      7.344475
     ],
     "end_latlng": [
-      47.57,
-      7.58
+      47.572049,
+      7.583678
     ],
     "average_speed": 5.269,
     "max_speed": 11.8,
@@ -19645,12 +20328,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.564647,
+      7.578085
     ],
     "end_latlng": [
-      48.08,
-      7.36
+      48.077877,
+      7.360996
     ],
     "average_speed": 4.743,
     "max_speed": 10,
@@ -19707,12 +20390,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      46,
-      8.95
+      46.004849,
+      8.946837
     ],
     "end_latlng": [
-      45.79,
-      9.09
+      45.792876,
+      9.091753
     ],
     "average_speed": 4.331,
     "max_speed": 13.2,
@@ -19769,12 +20452,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      8.07
+      47.381302,
+      8.06904
     ],
     "end_latlng": [
-      46.95,
-      8.62
+      46.949904,
+      8.622014
     ],
     "average_speed": 4.615,
     "max_speed": 19.5,
@@ -19813,7 +20496,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 15,
+    "achievement_count": 17,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -19831,12 +20514,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568688,
+      7.587001
     ],
     "end_latlng": [
-      47.38,
-      8.07
+      47.381125,
+      8.0691
     ],
     "average_speed": 4.911,
     "max_speed": 15.8,
@@ -19849,7 +20532,7 @@
     "upload_id_str": "2636114784",
     "external_id": "5C2B3861-098F-4FD7-B082-E43272141829",
     "from_accepted_tag": false,
-    "pr_count": 5,
+    "pr_count": 6,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -19893,12 +20576,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      8.07
+      47.381299,
+      8.0688
     ],
     "end_latlng": [
-      47.38,
-      8.07
+      47.381257,
+      8.068966
     ],
     "average_speed": 4.751,
     "max_speed": 13.8,
@@ -19937,7 +20620,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 20,
+    "achievement_count": 21,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -19955,12 +20638,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568694,
+      7.586276
     ],
     "end_latlng": [
-      47.38,
-      8.07
+      47.381337,
+      8.068878
     ],
     "average_speed": 5.288,
     "max_speed": 17.3,
@@ -20016,12 +20699,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.53,
-      7.6
+      47.52662,
+      7.603375
     ],
     "end_latlng": [
-      47.53,
-      7.6
+      47.526757,
+      7.603513
     ],
     "average_speed": 8.697,
     "max_speed": 33.3,
@@ -20078,12 +20761,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568754,
+      7.586456
     ],
     "end_latlng": [
-      47.55,
-      7.79
+      47.55191,
+      7.786603
     ],
     "average_speed": 6.904,
     "max_speed": 12.2,
@@ -20122,7 +20805,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 15,
+    "achievement_count": 16,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20140,12 +20823,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.6
+      47.557203,
+      7.603066
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564782,
+      7.591355
     ],
     "average_speed": 5.587,
     "max_speed": 16.6,
@@ -20202,12 +20885,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568813,
+      7.586413
     ],
     "end_latlng": [
-      47.56,
-      7.62
+      47.557925,
+      7.618224
     ],
     "average_speed": 5.772,
     "max_speed": 13.6,
@@ -20246,7 +20929,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 19,
+    "achievement_count": 22,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20264,12 +20947,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.38,
-      8.07
+      47.378213,
+      8.074284
     ],
     "end_latlng": [
-      47.56,
-      7.58
+      47.562062,
+      7.578704
     ],
     "average_speed": 5.538,
     "max_speed": 16.7,
@@ -20282,7 +20965,7 @@
     "upload_id_str": "2380010146",
     "external_id": "222707B5-9A6E-4520-BB5C-6DF577F6D25A",
     "from_accepted_tag": false,
-    "pr_count": 6,
+    "pr_count": 8,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -20308,7 +20991,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 19,
+    "achievement_count": 20,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20326,12 +21009,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.561768,
+      7.578694
     ],
     "end_latlng": [
-      47.43,
-      8.06
+      47.433716,
+      8.059891
     ],
     "average_speed": 5.712,
     "max_speed": 17.4,
@@ -20370,7 +21053,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 15,
+    "achievement_count": 16,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20388,12 +21071,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.561755,
+      7.57858
     ],
     "end_latlng": [
-      47.42,
-      7.5
+      47.420637,
+      7.500376
     ],
     "average_speed": 5.71,
     "max_speed": 12.7,
@@ -20406,7 +21089,7 @@
     "upload_id_str": "2352814663",
     "external_id": "86D8B9AD-2943-4730-B35C-D496DB2D6BC5",
     "from_accepted_tag": false,
-    "pr_count": 4,
+    "pr_count": 5,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -20450,12 +21133,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.568777,
+      7.586488
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.568757,
+      7.586742
     ],
     "average_speed": 5.548,
     "max_speed": 14.5,
@@ -20512,12 +21195,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.563972,
+      7.588089
     ],
     "end_latlng": [
-      47.56,
-      7.58
+      47.561857,
+      7.578793
     ],
     "average_speed": 5.201,
     "max_speed": 17.5,
@@ -20574,12 +21257,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.561802,
+      7.578817
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568188,
+      7.602307
     ],
     "average_speed": 5.107,
     "max_speed": 12,
@@ -20635,12 +21318,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      7.62
+      47.493781,
+      7.619043
     ],
     "end_latlng": [
-      47.52,
-      7.7
+      47.517656,
+      7.695092
     ],
     "average_speed": 1.308,
     "max_speed": 4.1,
@@ -20679,7 +21362,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 38,
+    "achievement_count": 39,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20697,12 +21380,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567182,
+      7.601501
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568213,
+      7.602469
     ],
     "average_speed": 6.927,
     "max_speed": 14,
@@ -20741,7 +21424,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 54,
+    "achievement_count": 55,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20759,12 +21442,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568174,
+      7.6024
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568174,
+      7.602535
     ],
     "average_speed": 7.521,
     "max_speed": 18.9,
@@ -20777,7 +21460,7 @@
     "upload_id_str": "2030415869",
     "external_id": "FFEE60E6-ABCE-426B-851A-0FC5024E0E68",
     "from_accepted_tag": false,
-    "pr_count": 33,
+    "pr_count": 34,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -20803,7 +21486,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 10,
+    "achievement_count": 11,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -20821,12 +21504,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568144,
+      7.602234
     ],
     "end_latlng": [
-      47.56,
-      7.6
+      47.5638,
+      7.599335
     ],
     "average_speed": 7.287,
     "max_speed": 14.3,
@@ -20883,12 +21566,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568338,
+      7.602362
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.56841,
+      7.602454
     ],
     "average_speed": 7.463,
     "max_speed": 14.4,
@@ -20927,7 +21610,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 7,
+    "achievement_count": 8,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -20945,12 +21628,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568555,
+      7.602431
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568199,
+      7.602497
     ],
     "average_speed": 6.976,
     "max_speed": 13.8,
@@ -20989,7 +21672,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 27,
+    "achievement_count": 31,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -21007,12 +21690,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.48,
-      7.62
+      47.477531,
+      7.617123
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568138,
+      7.602525
     ],
     "average_speed": 6.706,
     "max_speed": 15.8,
@@ -21025,7 +21708,7 @@
     "upload_id_str": "1987087545",
     "external_id": "E8BA5D54-60C3-43D3-9ACA-9038D43C8227",
     "from_accepted_tag": false,
-    "pr_count": 7,
+    "pr_count": 10,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -21051,7 +21734,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 56,
+    "achievement_count": 57,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -21069,12 +21752,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568392,
+      7.602523
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.56573,
+      7.588475
     ],
     "average_speed": 6.961,
     "max_speed": 14.3,
@@ -21113,7 +21796,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 4,
+    "achievement_count": 5,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -21131,12 +21814,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568145,
+      7.602439
     ],
     "end_latlng": [
-      47.56,
-      7.61
+      47.557304,
+      7.605051
     ],
     "average_speed": 7.183,
     "max_speed": 14.2,
@@ -21149,7 +21832,7 @@
     "upload_id_str": "1982218136",
     "external_id": "9264995E-AB88-4117-9269-E63BFC9AADEC",
     "from_accepted_tag": false,
-    "pr_count": 1,
+    "pr_count": 2,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -21193,12 +21876,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.565835,
+      7.58836
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.555087,
+      7.590017
     ],
     "average_speed": 7.299,
     "max_speed": 15.4,
@@ -21255,12 +21938,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568125,
+      7.601934
     ],
     "end_latlng": [
-      47.42,
-      7.08
+      47.419952,
+      7.079423
     ],
     "average_speed": 5.278,
     "max_speed": 13.7,
@@ -21299,7 +21982,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 4,
+    "achievement_count": 5,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -21317,12 +22000,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568429,
+      7.602405
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.56829,
+      7.602536
     ],
     "average_speed": 7.304,
     "max_speed": 13.5,
@@ -21379,12 +22062,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568164,
+      7.602389
     ],
     "end_latlng": [
-      47.36,
-      7.35
+      47.362276,
+      7.350164
     ],
     "average_speed": 6.553,
     "max_speed": 16.4,
@@ -21423,7 +22106,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 33,
+    "achievement_count": 34,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -21441,12 +22124,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567958,
+      7.602256
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.555181,
+      7.589273
     ],
     "average_speed": 6.789,
     "max_speed": 19,
@@ -21485,7 +22168,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 5,
+    "achievement_count": 6,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 2,
@@ -21503,12 +22186,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568331,
+      7.602056
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.556691,
+      7.588838
     ],
     "average_speed": 7.347,
     "max_speed": 15.1,
@@ -21565,12 +22248,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568301,
+      7.602274
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.555025,
+      7.58963
     ],
     "average_speed": 7.051,
     "max_speed": 15.5,
@@ -21627,12 +22310,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.6
+      47.576137,
+      7.603984
     ],
     "end_latlng": [
-      47.58,
-      7.6
+      47.576204,
+      7.603902
     ],
     "average_speed": 2.58,
     "max_speed": 4.1,
@@ -21689,12 +22372,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568432,
+      7.602302
     ],
     "end_latlng": [
-      47.48,
-      8.21
+      47.484347,
+      8.207089
     ],
     "average_speed": 7.332,
     "max_speed": 16.5,
@@ -21751,12 +22434,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568225,
+      7.602753
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568172,
+      7.602504
     ],
     "average_speed": 7.192,
     "max_speed": 16.4,
@@ -21813,12 +22496,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.569113,
+      7.602016
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568204,
+      7.602511
     ],
     "average_speed": 6.963,
     "max_speed": 12.6,
@@ -21875,12 +22558,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.56818,
+      7.602257
     ],
     "end_latlng": [
-      47.56,
-      7.6
+      47.562445,
+      7.596917
     ],
     "average_speed": 7.143,
     "max_speed": 15.4,
@@ -21937,12 +22620,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.565634,
+      7.58865
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.565742,
+      7.58858
     ],
     "average_speed": 7.337,
     "max_speed": 15.3,
@@ -21999,12 +22682,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568398,
+      7.602572
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568175,
+      7.602551
     ],
     "average_speed": 6.937,
     "max_speed": 15.4,
@@ -22061,12 +22744,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568166,
+      7.602294
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568178,
+      7.602441
     ],
     "average_speed": 6.577,
     "max_speed": 17,
@@ -22123,12 +22806,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568128,
+      7.602261
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568157,
+      7.602485
     ],
     "average_speed": 6.987,
     "max_speed": 17.5,
@@ -22185,12 +22868,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568322,
+      7.602285
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568199,
+      7.602538
     ],
     "average_speed": 7.133,
     "max_speed": 14.6,
@@ -22247,12 +22930,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.56823,
+      7.602656
     ],
     "end_latlng": [
-      47.55,
-      7.59
+      47.549007,
+      7.587032
     ],
     "average_speed": 7.497,
     "max_speed": 15.2,
@@ -22309,12 +22992,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568255,
+      7.602661
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568366,
+      7.602495
     ],
     "average_speed": 7.164,
     "max_speed": 15.3,
@@ -22371,12 +23054,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568157,
+      7.602129
     ],
     "end_latlng": [
-      47.56,
-      7.62
+      47.558123,
+      7.620755
     ],
     "average_speed": 7.504,
     "max_speed": 15,
@@ -22433,12 +23116,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568393,
+      7.602308
     ],
     "end_latlng": [
-      47.56,
-      7.63
+      47.558551,
+      7.628991
     ],
     "average_speed": 7.33,
     "max_speed": 14.1,
@@ -22477,7 +23160,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 12,
+    "achievement_count": 13,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -22495,12 +23178,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567999,
+      7.601796
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568227,
+      7.602372
     ],
     "average_speed": 7.113,
     "max_speed": 18.5,
@@ -22513,7 +23196,7 @@
     "upload_id_str": "1906351405",
     "external_id": "F9C347D7-E8D1-4BC8-B859-6E5E243DFE11",
     "from_accepted_tag": false,
-    "pr_count": 5,
+    "pr_count": 6,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -22557,12 +23240,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568161,
+      7.602477
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568193,
+      7.602502
     ],
     "average_speed": 7.251,
     "max_speed": 14.4,
@@ -22619,12 +23302,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568406,
+      7.602309
     ],
     "end_latlng": [
-      47.55,
-      7.62
+      47.553531,
+      7.615538
     ],
     "average_speed": 7.073,
     "max_speed": 14,
@@ -22663,7 +23346,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 24,
+    "achievement_count": 25,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -22681,12 +23364,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568274,
+      7.602279
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568205,
+      7.602518
     ],
     "average_speed": 7.091,
     "max_speed": 13.7,
@@ -22699,7 +23382,7 @@
     "upload_id_str": "1871752394",
     "external_id": "EEC6F2EC-B3C3-4A6C-B863-92206480F474",
     "from_accepted_tag": false,
-    "pr_count": 19,
+    "pr_count": 20,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -22725,7 +23408,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 23,
+    "achievement_count": 25,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -22743,12 +23426,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.58
+      47.564494,
+      7.579128
     ],
     "end_latlng": [
-      47.39,
-      8.04
+      47.393997,
+      8.042959
     ],
     "average_speed": 6.75,
     "max_speed": 17.9,
@@ -22761,7 +23444,7 @@
     "upload_id_str": "1845719532",
     "external_id": "F12C9F04-3770-41D9-B6A7-E3757D19D424",
     "from_accepted_tag": false,
-    "pr_count": 12,
+    "pr_count": 14,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -22787,7 +23470,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 22,
+    "achievement_count": 25,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -22805,12 +23488,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.52,
-      7.62
+      47.523041,
+      7.617369
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568275,
+      7.602455
     ],
     "average_speed": 6.535,
     "max_speed": 20.9,
@@ -22823,7 +23506,7 @@
     "upload_id_str": "1840253937",
     "external_id": "A91F1BF2-04DC-48D8-BACB-0A4B6F3D1681",
     "from_accepted_tag": false,
-    "pr_count": 7,
+    "pr_count": 8,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -22849,7 +23532,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 8,
+    "achievement_count": 9,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -22867,12 +23550,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.6
+      47.55851,
+      7.597592
     ],
     "end_latlng": [
-      47.56,
-      7.61
+      47.555204,
+      7.614262
     ],
     "average_speed": 5.756,
     "max_speed": 15,
@@ -22885,7 +23568,7 @@
     "upload_id_str": "1838261509",
     "external_id": "CB6A442B-0033-4049-AF5F-C8C9AF1FBC58",
     "from_accepted_tag": false,
-    "pr_count": 1,
+    "pr_count": 2,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -22929,12 +23612,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.559032,
+      7.593287
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568142,
+      7.602299
     ],
     "average_speed": 6.501,
     "max_speed": 14.7,
@@ -22973,7 +23656,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 6,
+    "achievement_count": 7,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -22991,12 +23674,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.5625,
+      7.594204
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.562015,
+      7.592724
     ],
     "average_speed": 4.42,
     "max_speed": 14.6,
@@ -23009,7 +23692,7 @@
     "upload_id_str": "1833562630",
     "external_id": "AA896C81-74FE-4583-8294-D13E698C9C18",
     "from_accepted_tag": false,
-    "pr_count": 4,
+    "pr_count": 5,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -23053,12 +23736,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.562062,
+      7.592162
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568162,
+      7.602394
     ],
     "average_speed": 6.857,
     "max_speed": 16.9,
@@ -23114,12 +23797,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.63
+      47.548158,
+      7.63023
     ],
     "end_latlng": [
-      47.55,
-      7.63
+      47.548164,
+      7.630117
     ],
     "average_speed": 1.419,
     "max_speed": 4.7,
@@ -23176,12 +23859,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.62
+      47.552486,
+      7.623637
     ],
     "end_latlng": [
-      47.54,
-      7.66
+      47.537551,
+      7.659823
     ],
     "average_speed": 6.403,
     "max_speed": 8.6,
@@ -23238,12 +23921,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.565806,
+      7.588314
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568292,
+      7.602484
     ],
     "average_speed": 6.352,
     "max_speed": 16.6,
@@ -23300,12 +23983,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568137,
+      7.602483
     ],
     "end_latlng": [
-      47.39,
-      8.05
+      47.39189,
+      8.051399
     ],
     "average_speed": 6.533,
     "max_speed": 18.6,
@@ -23362,12 +24045,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.49,
-      8.71
+      47.492122,
+      8.706065
     ],
     "end_latlng": [
-      47.38,
-      8.54
+      47.378416,
+      8.539511
     ],
     "average_speed": 6.769,
     "max_speed": 14.4,
@@ -23424,12 +24107,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568378,
+      7.602119
     ],
     "end_latlng": [
-      47.52,
-      8.67
+      47.524723,
+      8.669069
     ],
     "average_speed": 6.947,
     "max_speed": 15,
@@ -23486,12 +24169,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.53,
-      7.91
+      47.529485,
+      7.909776
     ],
     "end_latlng": [
-      47.54,
-      7.72
+      47.540368,
+      7.723519
     ],
     "average_speed": 1.051,
     "max_speed": 5.3,
@@ -23548,12 +24231,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.565777,
+      7.588525
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.56573,
+      7.588589
     ],
     "average_speed": 7.102,
     "max_speed": 18.8,
@@ -23610,12 +24293,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.5658,
+      7.588629
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.565829,
+      7.588528
     ],
     "average_speed": 5.769,
     "max_speed": 19.4,
@@ -23672,12 +24355,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.59,
-      7.59
+      47.590927,
+      7.59258
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.565368,
+      7.587515
     ],
     "average_speed": 5.738,
     "max_speed": 12.1,
@@ -23734,12 +24417,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568198,
+      7.60222
     ],
     "end_latlng": [
-      47.5,
-      8.01
+      47.497634,
+      8.014629
     ],
     "average_speed": 4.583,
     "max_speed": 14.7,
@@ -23778,7 +24461,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 7,
+    "achievement_count": 8,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -23796,12 +24479,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.558081,
+      7.593806
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.561839,
+      7.593016
     ],
     "average_speed": 6.421,
     "max_speed": 16.2,
@@ -23858,12 +24541,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.59
+      47.554455,
+      7.594792
     ],
     "end_latlng": [
-      47.39,
-      8.04
+      47.393232,
+      8.044272
     ],
     "average_speed": 6.381,
     "max_speed": 16,
@@ -23920,12 +24603,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568245,
+      7.602412
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.55513,
+      7.590014
     ],
     "average_speed": 6.983,
     "max_speed": 13.8,
@@ -23982,12 +24665,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568372,
+      7.602456
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.555274,
+      7.589973
     ],
     "average_speed": 7.366,
     "max_speed": 16.3,
@@ -24026,7 +24709,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 16,
+    "achievement_count": 17,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24044,12 +24727,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.55,
-      7.59
+      47.554763,
+      7.589269
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.56349,
+      7.591444
     ],
     "average_speed": 7.199,
     "max_speed": 17.1,
@@ -24088,7 +24771,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 24,
+    "achievement_count": 26,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24106,12 +24789,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568112,
+      7.602256
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.555201,
+      7.589004
     ],
     "average_speed": 5.158,
     "max_speed": 14.4,
@@ -24150,7 +24833,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 21,
+    "achievement_count": 22,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24168,12 +24851,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568111,
+      7.602491
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564786,
+      7.591343
     ],
     "average_speed": 6.697,
     "max_speed": 16.2,
@@ -24212,7 +24895,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 15,
+    "achievement_count": 16,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24230,12 +24913,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567925,
+      7.602196
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568223,
+      7.602477
     ],
     "average_speed": 6.476,
     "max_speed": 14.5,
@@ -24248,7 +24931,7 @@
     "upload_id_str": "1340388532",
     "external_id": "4E9E56F9-2845-4B81-A38E-9BD578AC9578",
     "from_accepted_tag": false,
-    "pr_count": 5,
+    "pr_count": 6,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -24292,12 +24975,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.59
+      47.56526,
+      7.591594
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564746,
+      7.591311
     ],
     "average_speed": 5.905,
     "max_speed": 21.5,
@@ -24354,12 +25037,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568355,
+      7.602381
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564819,
+      7.591119
     ],
     "average_speed": 6.711,
     "max_speed": 12.5,
@@ -24398,7 +25081,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 12,
+    "achievement_count": 13,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24416,12 +25099,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.6
+      47.56355,
+      7.598808
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564747,
+      7.591437
     ],
     "average_speed": 6.655,
     "max_speed": 16.2,
@@ -24434,7 +25117,7 @@
     "upload_id_str": "1332524026",
     "external_id": "A075ED34-6F67-49EC-82A0-C1960D19A426",
     "from_accepted_tag": false,
-    "pr_count": 10,
+    "pr_count": 11,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -24460,7 +25143,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 13,
+    "achievement_count": 14,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24478,12 +25161,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568044,
+      7.602487
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.555188,
+      7.589319
     ],
     "average_speed": 6.896,
     "max_speed": 13.9,
@@ -24540,12 +25223,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568179,
+      7.602485
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568281,
+      7.602555
     ],
     "average_speed": 7.781,
     "max_speed": 13.9,
@@ -24602,12 +25285,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568377,
+      7.6025
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568169,
+      7.60251
     ],
     "average_speed": 6.865,
     "max_speed": 17.9,
@@ -24664,12 +25347,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568525,
+      7.602453
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.556475,
+      7.588613
     ],
     "average_speed": 7.192,
     "max_speed": 12.2,
@@ -24708,7 +25391,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 18,
+    "achievement_count": 19,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24726,12 +25409,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567998,
+      7.602494
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564785,
+      7.591543
     ],
     "average_speed": 7.065,
     "max_speed": 14.6,
@@ -24744,7 +25427,7 @@
     "upload_id_str": "1314040635",
     "external_id": "ACCA91CE-C873-4E85-A1B7-853A463F0E16",
     "from_accepted_tag": false,
-    "pr_count": 9,
+    "pr_count": 10,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -24788,12 +25471,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.54,
-      7.62
+      47.538504,
+      7.619912
     ],
     "end_latlng": [
-      47.57,
-      7.59
+      47.565466,
+      7.591714
     ],
     "average_speed": 5.726,
     "max_speed": 20.8,
@@ -24850,12 +25533,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      8.06
+      47.560757,
+      8.060976
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.56207,
+      7.592931
     ],
     "average_speed": 7.121,
     "max_speed": 13.5,
@@ -24894,7 +25577,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 11,
+    "achievement_count": 12,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -24912,12 +25595,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567934,
+      7.602142
     ],
     "end_latlng": [
-      47.49,
-      8.71
+      47.491712,
+      8.705505
     ],
     "average_speed": 6.615,
     "max_speed": 13.6,
@@ -24974,12 +25657,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.6
+      47.5584,
+      7.597593
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564756,
+      7.591421
     ],
     "average_speed": 5.551,
     "max_speed": 23.1,
@@ -25018,7 +25701,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 11,
+    "achievement_count": 12,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -25036,12 +25719,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568212,
+      7.602406
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.556495,
+      7.588589
     ],
     "average_speed": 6.368,
     "max_speed": 16.3,
@@ -25098,12 +25781,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568214,
+      7.602445
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564766,
+      7.591507
     ],
     "average_speed": 6.756,
     "max_speed": 19.2,
@@ -25160,12 +25843,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.6
+      47.563817,
+      7.599459
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.556496,
+      7.588662
     ],
     "average_speed": 6.29,
     "max_speed": 13.1,
@@ -25204,7 +25887,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 10,
+    "achievement_count": 11,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -25222,12 +25905,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.567686,
+      7.602159
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.564733,
+      7.59138
     ],
     "average_speed": 6.844,
     "max_speed": 15.2,
@@ -25240,7 +25923,7 @@
     "upload_id_str": "1276077016",
     "external_id": "711DE0FB-151D-4280-B667-89D26AA820D4",
     "from_accepted_tag": false,
-    "pr_count": 9,
+    "pr_count": 10,
     "total_photo_count": 0,
     "has_kudoed": false
   },
@@ -25284,12 +25967,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.59
+      47.579663,
+      7.589165
     ],
     "end_latlng": [
-      47.58,
-      7.59
+      47.580381,
+      7.591111
     ],
     "average_speed": 7.648,
     "max_speed": 13.9,
@@ -25346,12 +26029,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.59
+      47.580255,
+      7.590987
     ],
     "end_latlng": [
-      47.58,
-      7.59
+      47.579853,
+      7.589288
     ],
     "average_speed": 5.465,
     "max_speed": 14.1,
@@ -25408,12 +26091,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.59
+      47.579755,
+      7.589223
     ],
     "end_latlng": [
-      47.58,
-      7.59
+      47.579943,
+      7.589265
     ],
     "average_speed": 6.694,
     "max_speed": 11.4,
@@ -25470,12 +26153,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.58,
-      7.59
+      47.579866,
+      7.589546
     ],
     "end_latlng": [
-      47.58,
-      7.59
+      47.579896,
+      7.589197
     ],
     "average_speed": 6.023,
     "max_speed": 15.8,
@@ -25514,7 +26197,7 @@
     "location_city": null,
     "location_state": null,
     "location_country": null,
-    "achievement_count": 3,
+    "achievement_count": 4,
     "kudos_count": 0,
     "comment_count": 0,
     "athlete_count": 1,
@@ -25532,12 +26215,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.568214,
+      7.602083
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.568387,
+      7.602614
     ],
     "average_speed": 7.105,
     "max_speed": 15.2,
@@ -25594,12 +26277,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.574332,
+      7.599973
     ],
     "end_latlng": [
-      47.57,
-      7.6
+      47.574479,
+      7.599921
     ],
     "average_speed": 6.867,
     "max_speed": 16.2,
@@ -25656,12 +26339,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.56,
-      7.59
+      47.562907,
+      7.588755
     ],
     "end_latlng": [
-      47.56,
-      7.59
+      47.562991,
+      7.588677
     ],
     "average_speed": 6.438,
     "max_speed": 10.4,
@@ -25718,12 +26401,12 @@
     "flagged": false,
     "gear_id": null,
     "start_latlng": [
-      47.57,
-      7.6
+      47.569583,
+      7.603858
     ],
     "end_latlng": [
-      47.52,
-      7.65
+      47.522123,
+      7.64836
     ],
     "average_speed": 4.414,
     "max_speed": 10.6,
@@ -25735,6 +26418,68 @@
     "upload_id": 1166114085,
     "upload_id_str": "1166114085",
     "external_id": "7E7B9302-3E99-48FF-AA23-DF1E24E0C032",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 23071964,
+      "resource_state": 1
+    },
+    "name": "Test 1",
+    "distance": 9222.1,
+    "moving_time": 8433,
+    "elapsed_time": 9724,
+    "total_elevation_gain": 412.7,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 15641296669,
+    "start_date": "2000-10-12T10:13:20Z",
+    "start_date_local": "2000-10-12T12:13:20Z",
+    "timezone": "(GMT+01:00) Europe/Zurich",
+    "utc_offset": 7200,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a15641296669",
+      "summary_polyline": "yx~_Hgmln@Dc@W{@e@}@Gu@Uw@Cu@Mm@UG_As@q@Fo@EsAP}BBCGWI_@e@]SoAqBWEc@`@UAW[Mk@GGBjAiAqBCSC?AHGEESB_@GO@Qg@a@E_@o@kAE[QOUe@eBiEQq@Q]o@}@E[yAgEOy@Uw@A_@g@wA_@qBEG_AqDQa@Mw@Uq@KMUsAC[We@Oy@Wk@AYUq@C[KSC_@U_AMw@Ui@OoAUi@Co@Km@GKE_ACQKOImAYmA]mASg@?SOo@AQMQGu@Qa@YoACWEI@SSa@KaAOWS{@AWM[Kq@GIIu@K[KwAUsAEq@WeAQa@Ca@EIDSGGGq@Ia@GqBOa@YwBBGUaAA_@B?D]Qa@MwA?[Mi@SOA]MWMaBYiA@_@Ig@Fc@@yCMyAOq@QgBWq@AYKGGQCUDa@MS[OOu@Wq@SYBC?NAq@OQNQQo@CQ@?KCIk@DIMIG_A@qAKVIKIaAEG?aAGO@a@Eq@DyAEi@@q@L}@IKAYLcCEs@Fs@E_AJm@G[D_BCUDOILKODOAYLYOm@DS?k@LZD[COc@e@LF@UIUFARJDQPHCMc@[O?MNOdDQR?J?IGBCZQj@KR?LIXe@f@O\\g@~AEb@Qh@k@`@Wb@KdA_@lBYp@G^e@~@UPc@r@Ul@a@n@ElD}@dAFi@?MF[?UEOc@C_@\\Y@YQe@i@OGaA^S?eA}AM]?_@Q}@E@@JBAGAH?E??B@ICO[e@e@aAOAmAVM[iBy@}@]GIFKCuAW}CAwC]yC}@{CU?WXsAl@c@_@o@SWZGd@BNIP@b@EVINOAOg@QYIk@BAAKISK}AI[KKG_@KoCKi@o@o@u@eA_As@Yy@M^a@h@GCANLx@@r@DDAVHv@x@xCg@J}An@KAWZwA|@Ip@[fAILUFa@MYDoAb@i@\\c@ID@sAIMJKx@IJWLAGg@e@ISU{DU}@MUiAs@UW}@_@yAkAmAu@s@Y_BMF}@QuBEsAJaDZeE?s@I_Aa@}Bw@kBB{@IY}@q@Y[DCm@]eCo@q@AwBLGFq@C}@O_@H}@Sk@DUSq@IYe@Gw@BKICMiAg@{CKWICGFEb@GDJe@M]A[Mk@S]a@g@Ui@k@]D?Q@IKcAZML",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.349584,
+      7.767593
+    ],
+    "end_latlng": [
+      47.38598,
+      7.819661
+    ],
+    "average_speed": 1.094,
+    "max_speed": 5.395,
+    "average_cadence": 50.1,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 1092.5,
+    "elev_low": 563.7,
+    "upload_id": 16706179507,
+    "upload_id_str": "16706179507",
+    "external_id": "stripped_Langenbruck_Du?rstelberg_Ruchen_Eptingen.gpx",
     "from_accepted_tag": false,
     "pr_count": 0,
     "total_photo_count": 0,
