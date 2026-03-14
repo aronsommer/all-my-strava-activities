@@ -184,7 +184,7 @@
 
           // Use template literals (`) for cleaner, multi-line HTML strings.
           const activityInfo = `
-            <a style="color: #FC5200" href="javascript:openStravaLink(${item.id});">${item.name}</a><br>
+            <a style="color: #FC5200" href="https://www.strava.com/activities/${item.id}" target="_blank">${item.name}</a><br>
             ${item.type} - ${distanceInKm} km<br>
             <a style="color: black" href="javascript:saveGPX(${item.id});">Download GPX file</a>
           `;
@@ -264,15 +264,6 @@
         if (polylineGroup.getLayers().length > 0) {
           map.fitBounds(polylineGroup.getBounds());
         }
-      }
-
-      /**
-       * Opens a new browser tab to the corresponding Strava activity page.
-       * @param {number} id - The Strava activity ID.
-       */
-      function openStravaLink(id) {
-        const url = `https://www.strava.com/activities/${id}`;
-        window.open(url, "_blank"); // '_blank' ensures it opens in a new tab
       }
 
       /**
