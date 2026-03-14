@@ -169,6 +169,8 @@
 
         // This variable will hold a reference to the currently selected polyline.
         let selectedPolyline = null;
+        // Track the currently hovered polyline to handle fast cursor movement.
+        let hoveredPolyline = null;
 
         activities.forEach((item) => {
           // Skip any activity that doesn't have a polyline
@@ -200,24 +202,25 @@
 
           // Handle mouse hovering
           polyline.on("mouseover", function () {
+            // When the cursor moves fast, mouseout on the previous polyline can be
+            // skipped by the browser. Reset it here to avoid stuck highlights.
+            if (hoveredPolyline && hoveredPolyline !== this && hoveredPolyline !== selectedPolyline) {
+              hoveredPolyline.setStyle({ color: "#FF00FF", weight: normalWeight });
+            }
+            hoveredPolyline = this;
             this.bringToFront();
             // Only apply the hover style if this line is NOT the selected one.
             if (this !== selectedPolyline) {
-              this.setStyle({
-                color: "blue",
-                weight: highlightWeight, // Use variable
-              });
+              this.setStyle({ color: "blue", weight: highlightWeight });
             }
           });
 
           // Handle mouse moving out
           polyline.on("mouseout", function () {
+            hoveredPolyline = null;
             // Only revert the style if this line is NOT the selected one.
             if (this !== selectedPolyline) {
-              this.setStyle({
-                color: "#FF00FF",
-                weight: normalWeight, // Use variable
-              });
+              this.setStyle({ color: "#FF00FF", weight: normalWeight });
             }
           });
 
