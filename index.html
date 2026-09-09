@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -68,17 +68,20 @@
        */
       function setupMap() {
         // --- Base Map Layer Definitions ---
-        const osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-          maxZoom: 19,
-          attribution: "© OpenStreetMap",
-        });
+        const osm = L.tileLayer(
+          "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+          {
+            maxZoom: 19,
+            attribution: "© OpenStreetMap",
+          },
+        );
 
         const esriWorldImagery = L.tileLayer(
           "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
           {
             maxZoom: 19,
             attribution: "© Esri",
-          }
+          },
         );
 
         // Grouping Swisstopo layers for clarity
@@ -165,8 +168,10 @@
        */
       function addPolylinesToMap(activities) {
         // Define line weights here for easy adjustments
-        const normalWeight = 8;
-        const highlightWeight = 10;
+        const normalWeight = 3;
+        const highlightWeight = 5;
+        // Pads the clickable area around each line without changing how thick it looks.
+        const renderer = L.canvas({ tolerance: 10 });
 
         // This variable will hold a reference to the currently selected polyline.
         let selectedPolyline = null;
@@ -190,10 +195,13 @@
           `;
 
           // Decode the polyline and create a Leaflet layer
-          const coordinates = L.Polyline.fromEncoded(item.map.summary_polyline).getLatLngs();
+          const coordinates = L.Polyline.fromEncoded(
+            item.map.summary_polyline,
+          ).getLatLngs();
           const polyline = L.polyline(coordinates, {
             color: "#FF00FF",
             weight: normalWeight, // Use variable
+            renderer: renderer,
           });
 
           // Bind the popup to the polyline layer with a max-width option.
@@ -205,8 +213,15 @@
           polyline.on("mouseover", function () {
             // When the cursor moves fast, mouseout on the previous polyline can be
             // skipped by the browser. Reset it here to avoid stuck highlights.
-            if (hoveredPolyline && hoveredPolyline !== this && hoveredPolyline !== selectedPolyline) {
-              hoveredPolyline.setStyle({ color: "#FF00FF", weight: normalWeight });
+            if (
+              hoveredPolyline &&
+              hoveredPolyline !== this &&
+              hoveredPolyline !== selectedPolyline
+            ) {
+              hoveredPolyline.setStyle({
+                color: "#FF00FF",
+                weight: normalWeight,
+              });
             }
             hoveredPolyline = this;
             this.bringToFront();
